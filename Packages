@@ -1,14 +1,14 @@
-Package: <package>
-Version: <version>
+Package: com.dta.delta
+Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Yourname <email (put in <>)>
-Depends: <bundleids>
-Filename: debs//<deb>
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 of deb>
-Section: <section on your repo>
-Description: <description>
-Author: Yourname <email (put in <>)>
-Name: Tweakname
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Delta.deb
+Size: 31723214
+MD5sum: 8add9f6a61c48f41e5e6a2dbb293d132
+SHA1: 0a2aaaba5e739867a80feecaf37325ff9a4476c2
+SHA256: 2e2f91ac248d9651bd33083cedff2a0d7923ae95ff523a6c6ab829bea47001d4
+Section: Games
+Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES games. Supports iOS 10-13
+Author: Riley Testut
+Name: Delta
