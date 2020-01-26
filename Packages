@@ -42,3 +42,18 @@ Section: Games
 Description: iOS/tvOS multi-emulator supporting Nintendo, Sega, Atari, Bandai and Playstation 1 Games. Supports iOS 9-13
 Author: Provenance Team
 Name: Provenance
+
+Package: net.nerd.inds
+Version: 1.10.6
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/iNDS.deb
+Size: 8410078
+MD5sum: 295e354f1239235ef148f71bf4312317
+SHA1: 1c5ae80fad609605e6f3a70cb3900d5f84457820
+SHA256: a17f28be91651068b5adfe8aae45af663129467694314876babf57c8daa54ff8
+Section: Games
+Description: Nintendo DS Emulator for iOS 9-13 (supports arm64)
+Author: iNDS Team
+Name: iNDS (64-bit)
