@@ -27,3 +27,18 @@ Section: Games
 Description: Dolphin iOS is an Wii/Gamecube Emulator, Supports iOS 12-13
 Author: OatmealDome
 Name: DolphiniOS
+
+Package: com.dta.provenance
+Version: 1.5-2602
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Provenance.deb
+Size: 56959142
+MD5sum: 527f271a054341d93810f6b9b1a20a77
+SHA1: 7326ccb5c201201552f9dbf9879eb19ac4bd7028
+SHA256: 99004e49cf255005a6b4561c0b759f15bc02ad1eb9271ff28370f6f928e4eece
+Section: Games
+Description: iOS/tvOS multi-emulator supporting Nintendo, Sega, Atari, Bandai and Playstation 1 Games. Supports iOS 9-13
+Author: Provenance Team
+Name: Provenance
