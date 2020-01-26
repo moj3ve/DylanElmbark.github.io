@@ -72,3 +72,18 @@ Section: Multimedia
 Description: Kodi Multimedia center for iOS 7-10, Supports armv7 (32-bit devices)
 Author: XBMC Team
 Name: Kodi-iOS (32-bit)
+
+Package: org.xbmc.kodi-ios64
+Version: 18.5-0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Kodi64.deb
+Size: 54854016
+MD5sum: 5f26b1f8fa297e4d768ce3701815a4aa
+SHA1: b09d64166bf68616b0ac90375aa18dd0e4f4a333
+SHA256: 9a9b9db3a7691de9e6cbcbc77dae7f1415693bb20bc05e100e388f7b85a8803c
+Section: Multimedia
+Description: Kodi Multimedia center for iOS 7-13, Supports arm64 (64-bit devices)
+Author: XBMC Team
+Name: Kodi-iOS (64-bit)
