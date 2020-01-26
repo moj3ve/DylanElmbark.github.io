@@ -12,3 +12,18 @@ Section: Games
 Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES games. Supports iOS 10-13
 Author: Riley Testut
 Name: Delta
+
+Package: me.oatmealdome.dolphinios-patreon-beta
+Version: 2.0.0-223
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/DolphiniOS.deb
+Size: 67800468
+MD5sum: fca79661b7ca55cc530a18aba729f3cc
+SHA1: 55c61c7765ef5c6cdf8012074f0e0e2b03619a57
+SHA256: 138e279926d3f7fc49fd7af0f1b22b1a1c2309260c57d26db2ce5a87bea201dc
+Section: Games
+Description: Dolphin iOS is an Wii/Gamecube Emulator, Supports iOS 12-13
+Author: OatmealDome
+Name: DolphiniOS
