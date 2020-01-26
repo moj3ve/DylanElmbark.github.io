@@ -57,3 +57,18 @@ Section: Games
 Description: Nintendo DS Emulator for iOS 9-13 (supports arm64)
 Author: iNDS Team
 Name: iNDS (64-bit)
+
+Package: org.xbmc.kodi-ios
+Version: 18.5-0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Kodi32.deb
+Size: 58046784
+MD5sum: 862d025d7b4635800596235d4dc8ad4c
+SHA1: 96c5e8bbb71beadddc7779005eac4379881870ac
+SHA256: 56fbf65c7c2f9178a2cb31007a85971e4c4d5b13fa5518e8067dfa762d8dee44
+Section: Multimedia
+Description: Kodi Multimedia center for iOS 7-10, Supports armv7 (32-bit devices)
+Author: XBMC Team
+Name: Kodi-iOS (32-bit)
