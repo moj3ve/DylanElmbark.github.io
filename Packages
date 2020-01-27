@@ -101,6 +101,8 @@ SHA256: c209f263476c9826147ff73fb5ab86271def8a2fbcb93825c815e5c69984fa96
 Section: Games
 Description: PSP Emulator, works on iOS 6-13 compatible with arm64 devices.
 Author: Henrik Rydgård
+Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
+Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
 Name: PPSSPP (Dev-Latest)
 
 Package: com.michael.dimentio
