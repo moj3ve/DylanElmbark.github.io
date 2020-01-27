@@ -124,7 +124,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: coreutils-bin, uikittools
-Filename: ./debs/fixldrestart.deb
+Filename: /debs/fixldrestart.deb
 Size: 886
 MD5sum: 87a2731f10f6b81274525465736cf85b
 SHA1: c68987d708cf97cc4391ee98a3f26f6fd4f17950
@@ -139,7 +139,7 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: firmware (>= 12.3), com.michael.dimentio
-Filename: ./debs/checkra1nnonce.deb
+Filename: /debs/checkra1nnonce.deb
 Size: 4640
 MD5sum: 5170f6f8ac23f065cbb5823adfaee836
 SHA1: a7fde0676bc55b70c427b0797cec12d34e5673c4
@@ -158,7 +158,7 @@ Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: org.coolstar.cctools|odcctools, firmware(>=11.0), curl, ldid
-Filename: ./debs/jtool2.deb
+Filename: /debs/jtool2.deb
 Size: 1084
 MD5sum: 370e886d2db50a0c12b533d0ac46d439
 SHA1: fb1fd1070ee9bd79750f182fe968e79ce8450ac3
@@ -167,6 +167,21 @@ Section: System
 Description: Install Jonathan Levin's jtool2 from newosxbook.com.
 Author: Morpheus___
 Name: jtool2 Installer
+
+Package: xyz.xninja.systeminfo
+Version: 2.3.2-8+debug
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/SystemInfo.deb
+Size: 365172
+MD5sum: f863b999065317a07c9f9a7e532fcf38
+SHA1: 9d78c2dfd95f3271517694f1b7b1bd64b933d818
+SHA256: f6f5a0296e78c3e35fd282d5e5e721567a7e422a179973c5379d4415af07c89e
+Section: Tweaks
+Description: System information in Settings.app > General > About, and other sections. Set boot-nonce,save shsh2,battery info etc.
+Author: ARX8x
+Name: System Info
 
 
 
