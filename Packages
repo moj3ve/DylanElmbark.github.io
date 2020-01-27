@@ -102,3 +102,69 @@ Section: Games
 Description: PSP Emulator, works on iOS 6-13 compatible with arm64 devices.
 Author: Henrik Rydgård
 Name: PPSSPP (Dev-Latest)
+
+Package: com.michael.dimentio
+Version: 0.5.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Filename: ./debs/Dimentio.deb
+Size: 7640
+MD5sum: f346503a0fa0e398648f408d516cb356
+SHA1: 1fcfbfdddfb15cafe41fa0864e8596ec9ee4de04
+SHA256: f6791b64be0b5e5311268abda2db17733ff61411ff0064ba3aeb7b5e18ec7718
+Section: System
+Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires task_for_pid0)
+Author: 0x7ff
+Name: Dimentio
+
+Package: com.michael.fixldrestart
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: coreutils-bin, uikittools
+Filename: ./debs/fixldrestart.deb
+Size: 886
+MD5sum: 87a2731f10f6b81274525465736cf85b
+SHA1: c68987d708cf97cc4391ee98a3f26f6fd4f17950
+SHA256: 7023acba58b8fac8fd393043591228f0cb6490c6ed3996e0c9919b37aca0d41a
+Section: Tweaks
+Description: Fix ldrestart on unc0ver with sandbox apps
+Author: halo_michael <yc992147156@me.com>
+Name: Fixldrestart (unc0ver)
+
+Package: com.michael.generatorautosetter
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: firmware (>= 12.3), com.michael.dimentio
+Filename: ./debs/checkra1nnonce.deb
+Size: 4640
+MD5sum: 5170f6f8ac23f065cbb5823adfaee836
+SHA1: a7fde0676bc55b70c427b0797cec12d34e5673c4
+SHA256: 6f8af3453dcb81a0bff15aa79372341fc6b90f8bc79357f6c7ab22ee8cf4e078
+Section: Tweaks
+Description: Auto set your generator when jailbreaking!
+ Auto set your generator when jailbreaking!
+ Usage: setgenerator [generator]
+ If you didn't choose a generator, Generator Auto Setter will set 0x1111111111111111 as default generator.
+ Only Support Checkra1n. (Because other jailbreak tool doesn't need that.)
+Author: halo_michael <yc992147156@me.com>
+Name: Nonce Setter for checkra1n
+Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.michael.jtool2
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: org.coolstar.cctools|odcctools, firmware(>=11.0), curl, ldid
+Filename: ./debs/jtool2.deb
+Size: 1084
+MD5sum: 370e886d2db50a0c12b533d0ac46d439
+SHA1: fb1fd1070ee9bd79750f182fe968e79ce8450ac3
+SHA256: 68aa07587f9a9a9fdd46f4adadcf3de0594fa6828bb07773cea30e678428492e
+Section: System
+Description: Install Jonathan Levin's jtool2 from newosxbook.com.
+Author: Morpheus___
+Name: jtool2 Installer
+
+
