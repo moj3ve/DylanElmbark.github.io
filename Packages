@@ -180,7 +180,7 @@ SHA1: 5349b3e09ebedd754e62682b7739bead113e5291
 SHA256: 5e11c3c904c78315a10b8e0636849f5881428b390767d44da8b8a8574b048cf2
 Section: Utilities
 Description: iCleaner Pro for iOS 4.x - 13.x
-Author: Morpheus___
+Author: Ivano Bilenchi
 Depiction: https://ib-soft.net/depictions/?repoURL=https://ib-soft.net/cydia&pkgId=com.exile90.icleanerpro
 Name: iCleaner Pro (arm64)
 
