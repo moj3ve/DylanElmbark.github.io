@@ -152,7 +152,6 @@ Description: Auto set your generator when jailbreaking!
  Only Support Checkra1n. (Because other jailbreak tool doesn't need that.)
 Author: halo_michael <yc992147156@me.com>
 Name: Nonce Setter for checkra1n
-Sponsor: halo_michael <yc992147156@me.com>
 
 Package: com.michael.jtool2
 Version: 1.2.0
@@ -168,5 +167,21 @@ Section: System
 Description: Install Jonathan Levin's jtool2 from newosxbook.com.
 Author: Morpheus___
 Name: jtool2 Installer
+
+Package: com.exile90.icleanerpro_7.8.0
+Version: 7.8.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: ./debs/iCleanerPro.deb
+Size: 5189780
+MD5sum: 8ef71615f225c91deac803aff2826728
+SHA1: 5349b3e09ebedd754e62682b7739bead113e5291
+SHA256: 5e11c3c904c78315a10b8e0636849f5881428b390767d44da8b8a8574b048cf2
+Section: Utilities
+Description: iCleaner Pro for iOS 4.x - 13.x
+Author: Morpheus___
+Depiction: https://ib-soft.net/depictions/?repoURL=https://ib-soft.net/cydia&pkgId=com.exile90.icleanerpro
+Name: iCleaner Pro (arm64)
 
 
