@@ -183,5 +183,20 @@ Description: System information in Settings.app > General > About, and other sec
 Author: ARX8x
 Name: System Info
 
+Package: com.julioverne.wishdia
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/WishDia.deb
+Size: 19078
+MD5sum: 5e3803320f0b4f65c99c4d491157a763
+SHA1: 48f746aad1cf918b2dd0f6822009538550ccfd5f
+SHA256: 082b4b071b45d8ea4fc0a9b592d417d322522c43d8b3f550320f37e81e923cc5
+Section: Tweaks
+Description: Add a wishlist to Cydia works on iOS 7-13
+Author: julioverne
+Name: WishDia
+
 
 
