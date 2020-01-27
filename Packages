@@ -87,3 +87,18 @@ Section: Multimedia
 Description: Kodi Multimedia center for iOS 7-13, Supports arm64 (64-bit devices)
 Author: XBMC Team
 Name: Kodi-iOS (64-bit)
+
+Package: org.ppsspp.ppsspp-dev-latest
+Version: 0v1.6.3-456-g6d0ed4ad0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/PPSSPP.deb
+Size: 17259000
+MD5sum: e3b7d976ced6b9fee8db214c07f6ca53
+SHA1: b956fce7d7bcacbd08a668032d3c5060edabcf6a
+SHA256: c209f263476c9826147ff73fb5ab86271def8a2fbcb93825c815e5c69984fa96
+Section: Games
+Description: PSP Emulator, works on iOS 6-13 compatible with arm64 devices.
+Author: Henrik Rydgård
+Name: PPSSPP (Dev-Latest)
