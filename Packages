@@ -213,5 +213,20 @@ Description: YouTube Customizer for iOS 12-13, disable ads, enable video playbac
 Author: SarahH12099
 Name: YouTube Reborn
 
+Package: wallpaperloader
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/WallpaperLoader.deb
+Size: 11376
+MD5sum: 4fc4ae14e7a45d9fa67388470e46fa22
+SHA1: 54ee03c4db18a863e56e88dea054e396fbe23f1e
+SHA256: 8bd304c3bf15a6e012e3f3ce3afd1e325502eded905e184fab58b35cfeb72fac
+Section: Tweaks
+Description: WallpaperLoader enables custom wallpaper bundles to be loaded into the default wallpaper list, supports iOS 13 and lower.
+Author: Skitty
+Name: WallpaperLoader
+
 
 
