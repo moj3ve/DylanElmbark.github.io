@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Global Settings (1.0.0.5)</string>
+			<key>footerText</key>
+			<string>Made By SarahH12099</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>NoVideoAds</string>
+			<key>label</key>
+			<string>No Video Ads</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>BackgroundPlayback</string>
+			<key>label</key>
+			<string>Enable Background Playback</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>NoDownloadButton</string>
+			<key>label</key>
+			<string>No Download Button</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>NoCommentsSection</string>
+			<key>label</key>
+			<string>No Comments Section</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>NoCastButton</string>
+			<key>label</key>
+			<string>No Cast Button</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>NoNotificationButton</string>
+			<key>label</key>
+			<string>No Notification Button</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.sarahh12099.youtuberebornprefs</string>
+			<key>key</key>
+			<string>NoStories</string>
+			<key>label</key>
+			<string>No Stories (Beta)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>YouTube Reborn</string>
+</dict>
+</plist>

@@ -172,7 +172,7 @@ Package: xyz.xninja.systeminfo
 Version: 2.3.2-8+debug
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
-Depends:
+Depends: mobilesubstrate
 Filename: /debs/SystemInfo.deb
 Size: 365172
 MD5sum: f863b999065317a07c9f9a7e532fcf38
@@ -187,7 +187,7 @@ Package: com.julioverne.wishdia
 Version: 0.0~beta1
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
-Depends:
+Depends: mobilesubstrate
 Filename: /debs/WishDia.deb
 Size: 19078
 MD5sum: 5e3803320f0b4f65c99c4d491157a763
@@ -197,6 +197,21 @@ Section: Tweaks
 Description: Add a wishlist to Cydia works on iOS 7-13
 Author: julioverne
 Name: WishDia
+
+Package: com.twickd.sarahh12099.youtube-reborn
+Version: 1.0.0.5
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/YoutubeReborn.deb
+Size: 19854
+MD5sum: d9de1720bd0c1ce59a3c34c122169b44
+SHA1: 8378d95fc1278eb2a83bb65dba1d0ad97b9985da
+SHA256: b481656db911b95e668ed2109f44ddd01305f565b9e7923b45df7d08698b62cd
+Section: Tweaks
+Description: YouTube Customizer for iOS 12-13, disable ads, enable video playback etc.
+Author: SarahH12099
+Name: YouTube Reborn
 
 
 
