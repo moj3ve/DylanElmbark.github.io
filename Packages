@@ -228,5 +228,20 @@ Description: WallpaperLoader enables custom wallpaper bundles to be loaded into 
 Author: Skitty
 Name: WallpaperLoader
 
+Package: xyz.skitty.sixls
+Version: 1.0.5-2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Filename: /debs/SixLS.deb
+Size: 1416370
+MD5sum: 5190818a722d55d1fda6baece81f9340
+SHA1: ec051b3f96c9b12506e8a1f2bd94732ad4708098
+SHA256: 60571b7d8d9002ea650e69944975a0cec11e67b786af3e1e6d6216c5cdf6b72a
+Section: Tweaks
+Description: Six LS brings the iOS 6 lockscreen back, Supports iOS 11-13
+Author: Skitty
+Name: SixLS
+
 
 
