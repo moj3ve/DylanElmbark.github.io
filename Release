@@ -1,8 +1,8 @@
-Origin: Dylan's Repository
-Label: Dylan's Repository
+Origin: Dylan Elmbark's Repo
+Label: Dylan Elmbark's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Dylan's APT Repository for distribution of iPhoneOS software.
+Description: Dylan Elmbark's APT Repository for distribution of iPhoneOS software.
