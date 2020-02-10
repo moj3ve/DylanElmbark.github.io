@@ -303,5 +303,21 @@ Description: Office 2013 style cursor on iOS 13-13.3.1
 Author: PoomSmart
 Name: SmoothCursor (iOS 13)
 
+Package: net.angelxwind.appsyncunified
+Version: 70.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/AppSyncUnified.deb
+Size: 41990
+MD5sum: e5e3bdd13d5389a1463525010c568a32
+SHA1: d7f6998f6b6b121c0927abcaa202d2adde94aa84
+SHA256: a1fc5fdf73c1fa3b19807d566e71b62a0217be86b4730da2eac2c3fd80b359dd
+Section: Tweaks
+Description: Enable the installation of fakesigned/unsigned IPA files to be installed, works with iOS 5-13 also supports arm64e -> (A12 devices)
+Author: Linus Yang, Karen
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
 
 
