@@ -288,5 +288,20 @@ Description: Patches Spotify.app to enable premium features. Works on iOS 7-13, 
 Author: julioverne
 Name: Spotilife
 
+Package: com.ps.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/SmoothCursor13.deb
+Size: 2474
+MD5sum: 5839234c825ee565451f6ed4d05a8dba
+SHA1: 226eddc87867a7c1e403a71bf46352d141554c93
+SHA256: 7b9be90adb0cdd24a4f9f32f6aee378f11228bee8acae0db69ef2a28e5ad5ef5
+Section: Tweaks
+Description: Office 2013 style cursor on iOS 13-13.3.1
+Author: PoomSmart
+Name: SmoothCursor (iOS 13)
+
 
 
