@@ -273,5 +273,20 @@ Description: Inject JavaScript to explore iOS apps over USB for 32-bit devices.
 Author: Frida Developers
 Name: Frida (32-bit)
 
+Package: com.julioverne.spotilife
+Version: 1.1a
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/Spotilife.deb
+Size: 201134
+MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
+SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
+SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
+Section: Tweaks
+Description: Patches Spotify.app to enable premium features. Works on iOS 7-13, requires Spotify app from the Appstore.
+Author: julioverne
+Name: Spotilife
+
 
 
