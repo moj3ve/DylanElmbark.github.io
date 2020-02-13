@@ -44,15 +44,15 @@ Author: Provenance Team
 Name: Provenance
 
 Package: net.nerd.inds
-Version: 1.10.6
+Version: 1.10.7
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/iNDS.deb
-Size: 8410078
-MD5sum: 295e354f1239235ef148f71bf4312317
-SHA1: 1c5ae80fad609605e6f3a70cb3900d5f84457820
-SHA256: a17f28be91651068b5adfe8aae45af663129467694314876babf57c8daa54ff8
+Size: 8410136
+MD5sum: b205abd66963d617681dc8b3bb00e072
+SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
+SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
 Section: Games
 Description: Nintendo DS Emulator for iOS 9-13 (supports arm64)
 Author: iNDS Team
