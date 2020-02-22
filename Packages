@@ -243,6 +243,21 @@ Description: Office 2013 style cursor on iOS 13-13.3.1
 Author: PoomSmart
 Name: SmoothCursor (iOS 13)
 
+Package: com.julioverne.ext3nder-installer
+Version: 022b
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/Extender.deb
+Size: 1947692
+MD5sum: c125341ea7283265364d6755d696bc5b
+SHA1: cc947c68cf9bb0f73a672b346096edf85c26f31e
+SHA256: 176948a72235dad6d63cdb9183a2640c43eee7e9a9b63edd7a92dfb3b6e8738f
+Section: Utilities
+Description: Cydia Extender by saurik, modified by julioverne. Resigning apps does not work at all. This tool is meant for rebuilding apps installed on the device to .ipa files
+Author: saurik, julioverne
+Name: Cydia Extender
+
 
 
 
