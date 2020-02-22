@@ -273,6 +273,23 @@ Description: Free Movies and TV Shows
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 
+Package: mediaplayer.box.ios3
+Version: 2.4.9.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/Mediabox.deb
+Size: 85016808
+MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
+SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
+SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
+Section: Multimedia
+Description: Free Movies and TV Shows
+Author: Mediaboxhd
+Name: MediaBox HD
+
+
+
 
 
 
