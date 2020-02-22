@@ -168,21 +168,6 @@ Description: Install Jonathan Levin's jtool2 from newosxbook.com.
 Author: Morpheus___
 Name: jtool2 Installer
 
-Package: xyz.xninja.systeminfo
-Version: 2.3.2-8+debug
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/SystemInfo.deb
-Size: 365172
-MD5sum: f863b999065317a07c9f9a7e532fcf38
-SHA1: 9d78c2dfd95f3271517694f1b7b1bd64b933d818
-SHA256: f6f5a0296e78c3e35fd282d5e5e721567a7e422a179973c5379d4415af07c89e
-Section: Tweaks
-Description: System information in Settings.app > General > About, and other sections. Set boot-nonce,save shsh2,battery info etc.
-Author: ARX8x
-Name: System Info
-
 Package: com.julioverne.wishdia
 Version: 0.0~beta1
 Architecture: iphoneos-arm
@@ -197,51 +182,6 @@ Section: Tweaks
 Description: Add a wishlist to Cydia works on iOS 7-13
 Author: julioverne
 Name: WishDia
-
-Package: com.twickd.sarahh12099.youtube-reborn
-Version: 1.0.0.5
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/YoutubeReborn.deb
-Size: 19854
-MD5sum: d9de1720bd0c1ce59a3c34c122169b44
-SHA1: 8378d95fc1278eb2a83bb65dba1d0ad97b9985da
-SHA256: b481656db911b95e668ed2109f44ddd01305f565b9e7923b45df7d08698b62cd
-Section: Tweaks
-Description: YouTube Customizer for iOS 12-13, disable ads, enable video playback etc.
-Author: SarahH12099
-Name: YouTube Reborn
-
-Package: wallpaperloader
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: 
-Filename: /debs/WallpaperLoader.deb
-Size: 11376
-MD5sum: 4fc4ae14e7a45d9fa67388470e46fa22
-SHA1: 54ee03c4db18a863e56e88dea054e396fbe23f1e
-SHA256: 8bd304c3bf15a6e012e3f3ce3afd1e325502eded905e184fab58b35cfeb72fac
-Section: Tweaks
-Description: WallpaperLoader enables custom wallpaper bundles to be loaded into the default wallpaper list, supports iOS 13 and lower.
-Author: Skitty
-Name: WallpaperLoader
-
-Package: xyz.skitty.sixls
-Version: 1.0.5-2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Filename: /debs/SixLS.deb
-Size: 1416370
-MD5sum: 5190818a722d55d1fda6baece81f9340
-SHA1: ec051b3f96c9b12506e8a1f2bd94732ad4708098
-SHA256: 60571b7d8d9002ea650e69944975a0cec11e67b786af3e1e6d6216c5cdf6b72a
-Section: Tweaks
-Description: Six LS brings the iOS 6 lockscreen back, Supports iOS 11-13
-Author: Skitty
-Name: SixLS
 
 Package: re.frida.server
 Version: 12.8.10
@@ -303,21 +243,6 @@ Description: Office 2013 style cursor on iOS 13-13.3.1
 Author: PoomSmart
 Name: SmoothCursor (iOS 13)
 
-Package: net.angelxwind.appsyncunified
-Version: 70.0
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/AppSyncUnified.deb
-Size: 41990
-MD5sum: e5e3bdd13d5389a1463525010c568a32
-SHA1: d7f6998f6b6b121c0927abcaa202d2adde94aa84
-SHA256: a1fc5fdf73c1fa3b19807d566e71b62a0217be86b4730da2eac2c3fd80b359dd
-Section: Tweaks
-Description: Enable the installation of fakesigned/unsigned IPA files to be installed, works with iOS 5-13 also supports arm64e -> (A12 devices)
-Author: Linus Yang, Karen
-Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
-Name: AppSync Unified
 
 
 
