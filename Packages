@@ -288,6 +288,21 @@ Description: Free Movies and TV Shows
 Author: Mediaboxhd
 Name: MediaBox HD
 
+Package: com.popcorntimetv.popcorntime.ios
+Version: 3.2.35
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: 
+Filename: /debs/PopcornTime.deb
+Size: 38899976
+MD5sum: bbc95b25730b223a049de605c1d8dae7
+SHA1: ded8c80041741829387b281d060caf9642d315fa
+SHA256: 0dfffcf3991792e444a75cf8b951681a719fa31cb9919c47aab01c7824b6b0fa
+Section: Multimedia
+Description: Free Movies and TV Shows
+Author: PopcornMaster
+Name: PopcornTime
+
 
 
 
