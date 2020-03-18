@@ -318,6 +318,21 @@ Description: Delta Lite is an multi-emulator for playing GBC/NES games. Supports
 Author: Riley Testut
 Name: Delta Lite
 
+Package: xyz.chise.animeiosv2
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/AnimeGT++.deb
+Size: 12332152
+MD5sum: b22004cdaec61f0c7ff3f0e2d4063b3e
+SHA1: 8a9fc32c1fa090456e3f4976e3db9d043393c89c
+SHA256: 1eed81e14a12e9ae96ef2edfe8a9d7157bbfcb5178019fb66fad11b8ca7aa083
+Section: Multimedia
+Description: Free Anime Shows, works on iOS 12-13
+Author: SarahH12099
+Name: AnimeGT++
+
 
 
 
