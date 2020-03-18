@@ -303,6 +303,21 @@ Description: Free Movies and TV Shows
 Author: PopcornMaster
 Name: PopcornTime
 
+Package: com.rileytestut.Delta.Lite.Beta
+Version: 1.0b
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/DeltaLite.deb
+Size: 16387964
+MD5sum: cc2295f01088561c0584e78f038dad32
+SHA1: 7740da67d530dcc6703bc24e3b6560694887e92e
+SHA256: 8576c8d3e31a31638b4f4dbbc69f4a1312b42777b493070e37a49b3ff38ecc6c
+Section: Games
+Description: Delta Lite is an multi-emulator for playing GBC/NES games. Supports iOS 12-13
+Author: Riley Testut
+Name: Delta Lite
+
 
 
 
