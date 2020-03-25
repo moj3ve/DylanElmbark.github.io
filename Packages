@@ -184,30 +184,30 @@ Author: julioverne
 Name: WishDia
 
 Package: re.frida.server
-Version: 12.8.10
+Version: 12.8.16
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/Frida64.deb
-Size: 15223190
-MD5sum: 57f579b7982a490c2818dfda36b7efae
-SHA1: d4e9b5ccc4bfa4e19a0a4805b9c55b0567ad84de
-SHA256: c8f404233c625a2c2e2bdcb66a18936f46fe3b0ed67c26497f9b1712661b83fe
+Size: 15133116
+MD5sum: 0517d01c3df003c773feae3e3f6d38c0
+SHA1: f1495bf4bd3251d1dcfdd081519f4399ca65a308
+SHA256: 1ab3d8d66f33671c3eebbbad1342323c65d4284d22e8edd76927e8d054cb2647
 Section: Development
-Description: Inject JavaScript to explore iOS apps over USB.
+Description: Inject JavaScript to explore iOS apps over USB for 64-bit devices.
 Author: Frida Developers
 Name: Frida (64-bit)
 
 Package: re.frida.server32
-Version: 12.8.10
+Version: 12.8.16
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/Frida32.deb
-Size: 7873574
-MD5sum: 1c9dc5ef6e9af4e63c1d08ceaae97898
-SHA1: f145f8521f947fd3dfbe8bf9d76f0580a27036da
-SHA256: 0dc7fb3bbaa234ba6ffbc3e88fb473246756b3d5d4614cb9dff5112fdc1ebf89
+Size: 7833076
+MD5sum: cc4ffe3b50636ad9a0461a2e85a4d340
+SHA1: b04d13201ab38e3426fe3352d41998ef6c7a104e
+SHA256: 3ee5d72a5c644ea86fa729170a8593c436c87913c0c742846df63d5b3fb87a72
 Section: Development
 Description: Inject JavaScript to explore iOS apps over USB for 32-bit devices.
 Author: Frida Developers
@@ -332,6 +332,21 @@ Section: Multimedia
 Description: Free Anime Shows, works on iOS 12-13
 Author: SarahH12099
 Name: AnimeGT++
+
+Package: re.frida.server64
+Version: 12.8.16
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/FridaA12.deb
+Size: 15093110
+MD5sum: 9221eec6496fbe81b1289ca3267918db
+SHA1: d5865685e14ac3eda02447513ba802e055fe1490
+SHA256: 735c49b1b5d9ab292dde04f7dc30d8e60ac6271b03e1710659a5dfc06d608ea1
+Section: Development
+Description: Inject JavaScript to explore iOS apps over USB on A12/A13 devices.
+Author: Frida Developers
+Name: Frida (A12+ devices)
 
 
 
