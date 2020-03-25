@@ -348,6 +348,21 @@ Description: Inject JavaScript to explore iOS apps over USB on A12/A13 devices.
 Author: Frida Developers
 Name: Frida (A12+ devices)
 
+Package: com.matchstic.reprovision
+Version: 0.5.2~EOL
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/ReProvision.deb
+Size: 14406348
+MD5sum: 4064144eed72b264038cb91d9e477f1a
+SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
+SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
+Section: System
+Description: Re-Sign, Install IPA files, revoke certificates. Works on iOS 7-13, ReProvision is at EOL and will not be updated if Apple breaks it again.
+Author: Matt Clarke
+Name: ReProvision (EOL)
+
 
 
 
