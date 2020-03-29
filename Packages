@@ -213,20 +213,20 @@ Description: Inject JavaScript to explore iOS apps over USB for 32-bit devices.
 Author: Frida Developers
 Name: Frida (32-bit)
 
-Package: com.julioverne.spotilife
-Version: 1.1a
+Package: com.spotify.client
+Version: 8.5.51
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
-Filename: /debs/Spotilife.deb
-Size: 201134
-MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
-SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
-SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
-Section: Tweaks
-Description: Patches Spotify.app to enable premium features. Works on iOS 7-13, requires Spotify app from the Appstore.
-Author: julioverne
-Name: Spotilife
+Filename: /debs/Spotify++.deb
+Size: 52858772
+MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
+SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
+SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
+Section: Application
+Description: Spotify++ for iOS 11-13, DELETE ORIGINAL SPOTIFY BEFORE INSTALLING THIS!
+Author: Dylan Elmbark & julioverne
+Name: Spotify++
 
 Package: com.ps.smoothcursorios13
 Version: 0.0.1
