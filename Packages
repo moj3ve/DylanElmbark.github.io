@@ -218,13 +218,13 @@ Version: 8.5.51
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
-Filename: /debs/Spotify++.deb
+Filename: /debs/Spotify.deb
 Size: 52858772
 MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
 SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
 SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
-Section: Application
-Description: Spotify++ for iOS 11-13, DELETE ORIGINAL SPOTIFY BEFORE INSTALLING THIS!
+Section: Utilities
+Description: Spotify++ for iOS 11-13 this installs a new Spotify.app, DELETE ORIGINAL SPOTIFY (appstore) BEFORE INSTALLING THIS!
 Author: Dylan Elmbark & julioverne
 Name: Spotify++
 
