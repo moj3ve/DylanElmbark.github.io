@@ -168,21 +168,6 @@ Description: Install Jonathan Levin's jtool2 from newosxbook.com.
 Author: Morpheus___
 Name: jtool2 Installer
 
-Package: com.julioverne.wishdia
-Version: 0.0~beta1
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/WishDia.deb
-Size: 19078
-MD5sum: 5e3803320f0b4f65c99c4d491157a763
-SHA1: 48f746aad1cf918b2dd0f6822009538550ccfd5f
-SHA256: 082b4b071b45d8ea4fc0a9b592d417d322522c43d8b3f550320f37e81e923cc5
-Section: Tweaks
-Description: Add a wishlist to Cydia works on iOS 7-13
-Author: julioverne
-Name: WishDia
-
 Package: re.frida.server
 Version: 12.8.16
 Architecture: iphoneos-arm
@@ -227,21 +212,6 @@ Section: Utilities
 Description: Spotify++ for iOS 11-13 this installs a new Spotify.app, DELETE ORIGINAL SPOTIFY (appstore) BEFORE INSTALLING THIS!
 Author: Dylan Elmbark & julioverne
 Name: Spotify++
-
-Package: com.ps.smoothcursorios13
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/SmoothCursor13.deb
-Size: 2474
-MD5sum: 5839234c825ee565451f6ed4d05a8dba
-SHA1: 226eddc87867a7c1e403a71bf46352d141554c93
-SHA256: 7b9be90adb0cdd24a4f9f32f6aee378f11228bee8acae0db69ef2a28e5ad5ef5
-Section: Tweaks
-Description: Office 2013 style cursor on iOS 13-13.3.1
-Author: PoomSmart
-Name: SmoothCursor (iOS 13)
 
 Package: com.julioverne.ext3nder-installer
 Version: 022b
