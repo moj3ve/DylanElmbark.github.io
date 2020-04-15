@@ -9,7 +9,7 @@ MD5sum: cc3924c23a438e9f4f5e22de8a94ed29
 SHA1: 4979a3755f6a9aa7613bbac29913421bb0d118e4
 SHA256: bda551acd8b46050238f79e1909d183ba9399d76df3d5ab0da858acbf28ffc4d
 Section: Games
-Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/ games. Supports iOS 12-13
+Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES games. Supports iOS 12-13
 Author: Riley Testut
 Name: Delta
 
@@ -239,7 +239,7 @@ MD5sum: 45a896d05c90a47210083b61ef1d893e
 SHA1: f6eafd1123d8235437520f368d161729144dfd1d
 SHA256: d16ebd680ede91757f801387a305113dacaa4f97d918a62725e42f69664ccf25
 Section: Multimedia
-Description: Free Movies and TV Shows
+Description: Free Movies and TV Shows, works on iOS 10-13
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 
@@ -254,24 +254,9 @@ MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
 SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
 SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
 Section: Multimedia
-Description: Free Movies and TV Shows
+Description: Free Movies and TV Shows, works on iOS 9-13
 Author: Mediaboxhd
 Name: MediaBox HD
-
-Package: com.popcorntimetv.popcorntime.ios
-Version: 3.2.35
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: 
-Filename: /debs/PopcornTime.deb
-Size: 38899976
-MD5sum: bbc95b25730b223a049de605c1d8dae7
-SHA1: ded8c80041741829387b281d060caf9642d315fa
-SHA256: 0dfffcf3991792e444a75cf8b951681a719fa31cb9919c47aab01c7824b6b0fa
-Section: Multimedia
-Description: Free Movies and TV Shows
-Author: PopcornMaster
-Name: PopcornTime
 
 Package: com.rileytestut.Delta.Lite.Beta
 Version: 1.0b
