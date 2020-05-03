@@ -169,30 +169,30 @@ Author: Morpheus___
 Name: jtool2 Installer
 
 Package: re.frida.server
-Version: 12.8.16
+Version: 12.8.20
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/Frida64.deb
-Size: 15133116
-MD5sum: 0517d01c3df003c773feae3e3f6d38c0
-SHA1: f1495bf4bd3251d1dcfdd081519f4399ca65a308
-SHA256: 1ab3d8d66f33671c3eebbbad1342323c65d4284d22e8edd76927e8d054cb2647
+Size: 15087978
+MD5sum: 53482299f6f06de226e89b1616e51cf2
+SHA1: 7523b8d4e06b7abc6f1c7ab3daf15edf7a817d33
+SHA256: 5faca1f8a4a3e29cfa09981e92a33bd3de8088ebfe0c4a0710fd0df4812e2d32
 Section: Development
 Description: Inject JavaScript to explore iOS apps over USB for 64-bit devices.
 Author: Frida Developers
 Name: Frida (64-bit)
 
 Package: re.frida.server32
-Version: 12.8.16
+Version: 12.8.20
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/Frida32.deb
-Size: 7833076
-MD5sum: cc4ffe3b50636ad9a0461a2e85a4d340
-SHA1: b04d13201ab38e3426fe3352d41998ef6c7a104e
-SHA256: 3ee5d72a5c644ea86fa729170a8593c436c87913c0c742846df63d5b3fb87a72
+Size: 7833938
+MD5sum: e36444cb9e1db7cce60c9007494d4a32
+SHA1: b191a2f5bd673a89a29fd5760bdecddd5607aeb7
+SHA256: a667e3708180158ac136bf4cf3e941c4ed6bc530f71e73bbffb0a58897992867
 Section: Development
 Description: Inject JavaScript to explore iOS apps over USB for 32-bit devices.
 Author: Frida Developers
@@ -274,15 +274,15 @@ Author: SarahH12099
 Name: AnimeGT++
 
 Package: re.frida.server64
-Version: 12.8.16
+Version: 12.8.20
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/FridaA12.deb
-Size: 15093110
-MD5sum: 9221eec6496fbe81b1289ca3267918db
-SHA1: d5865685e14ac3eda02447513ba802e055fe1490
-SHA256: 735c49b1b5d9ab292dde04f7dc30d8e60ac6271b03e1710659a5dfc06d608ea1
+Size: 15125816
+MD5sum: abd58b404ff9f1a552fdc6e437cf6cd9
+SHA1: 9cf9eebe566e4f31e591e3bcedbffa0e70dfadd1
+SHA256: b8abd4fa3b814aabcc50911ff28b441e026a27f7d9c502fa085ec50253555ec5
 Section: Development
 Description: Inject JavaScript to explore iOS apps over USB on A12/A13 devices.
 Author: Frida Developers
