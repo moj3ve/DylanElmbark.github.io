@@ -6,15 +6,15 @@
 	<dict>
 		<key>IQKeyboardManager.bundle/Assets.car</key>
 		<data>
-		r2j3FKPcqg8sxxHYe2CCurtxrTU=
+		rHI77ouggOOvOEm8SUzSXRdGc7g=
 		</data>
 		<key>IQKeyboardManager.bundle/Info.plist</key>
 		<data>
-		C+3H1z70twX+4sY0Xi3N/0WpYkk=
+		3d8S0LIQzcT9zIdoCEqGOPurG74=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		sbyRC7bK51E6DarA/2qCCpver6E=
+		BBoLjKG0bzvH3QjIueo0FKaYAQU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -23,56 +23,47 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r2j3FKPcqg8sxxHYe2CCurtxrTU=
+			rHI77ouggOOvOEm8SUzSXRdGc7g=
 			</data>
 			<key>hash2</key>
 			<data>
-			wGOh8Udn96X4weK8gV9gSCz9Cyd5rSRYku3kMf/HqKk=
+			P2tQKJ9KEjFRW41UhdW8ytd+JAD5daweVBHn4d730hw=
 			</data>
 		</dict>
 		<key>IQKeyboardManager.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C+3H1z70twX+4sY0Xi3N/0WpYkk=
+			3d8S0LIQzcT9zIdoCEqGOPurG74=
 			</data>
 			<key>hash2</key>
 			<data>
-			1O2bZ099Uv38y04m5vk6KKwD/HmIBfVhjYlg9esIIA4=
+			l2z5WcE1iQo/m4lN5da8gqfnD5O8kzTiysnU9AFuOno=
 			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
-		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<integer>10000</integer>
-		</dict>
 		<key>^.*\.lproj/</key>
 		<dict>
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.000000</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.000000</real>
+			<real>1100</real>
 		</dict>
-		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
+		<key>^Base\.lproj/</key>
 		<dict>
-			<key>omit</key>
-			<true/>
 			<key>weight</key>
-			<integer>10000</integer>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -82,33 +73,14 @@
 		<key>.*\.dSYM($|/)</key>
 		<dict>
 			<key>weight</key>
-			<real>11.000000</real>
-		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20.000000</real>
+			<real>11</real>
 		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>2000.000000</real>
-		</dict>
-		<key>^(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/|())SC_Info/[^/]+\.(sinf|supf|supp)$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<integer>10000</integer>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10.000000</real>
+			<real>2000</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -117,52 +89,43 @@
 			<key>optional</key>
 			<true/>
 			<key>weight</key>
-			<real>1000.000000</real>
+			<real>1000</real>
 		</dict>
 		<key>^.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100.000000</real>
+			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.000000</real>
+			<real>20</real>
 		</dict>
 		<key>^PkgInfo$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20.000000</real>
-		</dict>
-		<key>^Watch/[^/]+\.app/(Frameworks/[^/]+\.framework/|PlugIns/[^/]+\.appex/|PlugIns/[^/]+\.appex/Frameworks/[^/]+\.framework/)SC_Info/[^/]+\.(sinf|supf|supp)$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<integer>10000</integer>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10.000000</real>
+			<real>20</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.000000</real>
+			<real>20</real>
 		</dict>
 		<key>^version\.plist$</key>
 		<dict>
 			<key>weight</key>
-			<real>20.000000</real>
+			<real>20</real>
 		</dict>
 	</dict>
 </dict>

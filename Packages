@@ -228,16 +228,16 @@ Description: Cydia Extender by saurik, modified by julioverne. Resigning apps do
 Author: saurik, julioverne
 Name: Cydia Extender
 
-Package: com.xd.mbp2
-Version: 6.5
+Package: com.anne.mbp2
+Version: 7.0
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: 
 Filename: /debs/MovieBox.deb
-Size: 43335884
-MD5sum: 45a896d05c90a47210083b61ef1d893e
-SHA1: f6eafd1123d8235437520f368d161729144dfd1d
-SHA256: d16ebd680ede91757f801387a305113dacaa4f97d918a62725e42f69664ccf25
+Size: 15504480
+MD5sum: 59eba80c7b22fd4943ae2f5da881c277
+SHA1: 60e50ecf41fad8687445bb55c2fcf760d990aa58
+SHA256: 57f5680b46f4e5c286478ef788a243a5e35b221a103d38fcc41c19dd724660f9
 Section: Multimedia
 Description: Free Movies and TV Shows, works on iOS 10-13
 Author: MovieBoxPro Team
