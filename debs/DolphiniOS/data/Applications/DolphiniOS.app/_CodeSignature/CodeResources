@@ -4,6 +4,14 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AnalyticsNotice.nib/objects-13.0+.nib</key>
+		<data>
+		HiCz6r1U9qnH9mSL3En5BokeFFQ=
+		</data>
+		<key>AnalyticsNotice.nib/runtime.nib</key>
+		<data>
+		5ccrxK6XqhNUFeikm1VYFaoQ+9Y=
+		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
 		yRPSLRraBWcj5u1iC1WNPLNjHcY=
@@ -14,15 +22,647 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		7GmHAtRyyTC8HP/2vw9lZiYzrTI=
+		h8I7eive6w8CaokB/CZYScyhnTM=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/2Ih-xE-Xnq-view-kPF-Zo-DqP.nib/objects-13.0+.nib</key>
+		<data>
+		OyOxBhZblRe609v0J7dhXpedZJo=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/2Ih-xE-Xnq-view-kPF-Zo-DqP.nib/runtime.nib</key>
+		<data>
+		lqqvO6gNyhNswk/RHCdtOIvw2e0=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/9B8-B9-G9H-view-hpp-ft-uA5.nib/objects-13.0+.nib</key>
+		<data>
+		kgFMT+9U26rwpmlH/0xm0ZlEXjo=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/9B8-B9-G9H-view-hpp-ft-uA5.nib/runtime.nib</key>
+		<data>
+		4A99vDhUBzrq7p0jO3daMA8HOxE=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/Info.plist</key>
+		<data>
+		B2uFiQ1K54E1yUlwKyhlOAWhDXs=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<data>
+		kRWIl5UjVgxDeyWexIMQ/xzhids=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/Root.nib/runtime.nib</key>
+		<data>
+		O/+ofssLjGex1epp9c+sYB/ycMo=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/objects-13.0+.nib</key>
+		<data>
+		/2Aa/TRySfSPIIHjQm7OJ9fwClQ=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/runtime.nib</key>
+		<data>
+		Ed+tl+gkBBNIYzuz4NcLL1vn4Pk=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-2Ih-xE-Xnq.nib/objects-13.0+.nib</key>
+		<data>
+		aP85Jp4RLAd8VWoDiT3C2iJ3R14=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-2Ih-xE-Xnq.nib/runtime.nib</key>
+		<data>
+		gm9O1mkr8/SMtyu1hVfU5hZITgI=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-9B8-B9-G9H.nib/objects-13.0+.nib</key>
+		<data>
+		uMLjVWHrUOQXj7E8ZjloJ70j3Sc=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-9B8-B9-G9H.nib/runtime.nib</key>
+		<data>
+		hfPm73fzI8MBmsDvnHnnr6GLwkA=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-WFS-wQ-gHE.nib/objects-13.0+.nib</key>
+		<data>
+		6oXv2tlzp2mxIYZ4btf/vHYRtEE=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-WFS-wQ-gHE.nib/runtime.nib</key>
+		<data>
+		tHFYeAvrX3YR9gcUXZNiH5Hbfhw=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-aKU-4f-y3Z.nib/objects-13.0+.nib</key>
+		<data>
+		lQz7IZE40tuBsGX4bU/otTPT7ak=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-aKU-4f-y3Z.nib/runtime.nib</key>
+		<data>
+		FvdS7erUi8t/9Zq5/2Dc+1lnXXE=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-bU3-93-i1h.nib/objects-13.0+.nib</key>
+		<data>
+		YtAerFF2/8pg/i6oJ0+2mNtnp2Y=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-bU3-93-i1h.nib/runtime.nib</key>
+		<data>
+		gMx9Rh3dvvEN2EHyS3jzU86S+G0=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-dOQ-ab-KEk.nib/objects-13.0+.nib</key>
+		<data>
+		og4MRAyuAAyCGSE4lWgWarVxlp8=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-dOQ-ab-KEk.nib/runtime.nib</key>
+		<data>
+		eGtc8B3Jrx4c+uTmfEpzqbAQ9gQ=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-evg-Tq-8lW.nib/objects-13.0+.nib</key>
+		<data>
+		Hmt0ol41x7uOT70FUgcv+fk4/Vo=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-evg-Tq-8lW.nib/runtime.nib</key>
+		<data>
+		Ow08plD4mmzCuNuVR6Qw95rxciE=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-gdp-mw-qbM.nib/objects-13.0+.nib</key>
+		<data>
+		WFNjvn127lAWR7noCLJobwBqP+8=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-gdp-mw-qbM.nib/runtime.nib</key>
+		<data>
+		xojLvATZa5IHFxA7XvovvjIG0Wo=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-goY-15-duQ.nib/objects-13.0+.nib</key>
+		<data>
+		iZgBLofYY1VBYU5Ea70mR8t0L+U=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-goY-15-duQ.nib/runtime.nib</key>
+		<data>
+		b2NYD6JqGZq4JamN62OBDIm4SB4=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-ujV-PI-Q8a.nib/objects-13.0+.nib</key>
+		<data>
+		lcImtV25s+obP6S2zZZswZJ9Tf4=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-ujV-PI-Q8a.nib/runtime.nib</key>
+		<data>
+		1fR+R1neh/pihvVMbFOwydDFeGY=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-v8E-No-sDI.nib/objects-13.0+.nib</key>
+		<data>
+		Am26YrXA94f+wTKZms9fdE41WPg=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-v8E-No-sDI.nib/runtime.nib</key>
+		<data>
+		CieFmjNs5ELc/cnjCbNlRy24exI=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zAT-C1-Hqy.nib/objects-13.0+.nib</key>
+		<data>
+		j8e278f0irMcvDiI7ROhY8P0OAs=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zAT-C1-Hqy.nib/runtime.nib</key>
+		<data>
+		mhWMqxwZhfURC2dIt1HYq7OmtFQ=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/objects-13.0+.nib</key>
+		<data>
+		Ox2awjVz3NxGHA3Sk5cxwUNNfDQ=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/runtime.nib</key>
+		<data>
+		VM3WUbSxh15wU6nDAkROd5RUWPI=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/WFS-wQ-gHE-view-LHW-fP-V0C.nib/objects-13.0+.nib</key>
+		<data>
+		z0U2AD7TfBDiVVeERTiwKxk5cU8=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/WFS-wQ-gHE-view-LHW-fP-V0C.nib/runtime.nib</key>
+		<data>
+		ahBKpUX4iJktTvL/x0hC51AF8Ws=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/aKU-4f-y3Z-view-fkb-0f-Gzp.nib/objects-13.0+.nib</key>
+		<data>
+		Yk2pxW6YywCKulIWzn4HUaAmIxg=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/aKU-4f-y3Z-view-fkb-0f-Gzp.nib/runtime.nib</key>
+		<data>
+		XMU0Gs1LlN7yfULLEfXL9vbJSIY=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/bU3-93-i1h-view-Zin-bf-96c.nib/objects-13.0+.nib</key>
+		<data>
+		xpudwKVR0TmjiNYLSb7DzFBcCPA=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/bU3-93-i1h-view-Zin-bf-96c.nib/runtime.nib</key>
+		<data>
+		4Zm1SZGh4H18tRTduzMnzBWqKz8=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/dOQ-ab-KEk-view-lbq-LK-hXa.nib/objects-13.0+.nib</key>
+		<data>
+		BkwGalSrcZeaH8XZAscTlhK3cnI=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/dOQ-ab-KEk-view-lbq-LK-hXa.nib/runtime.nib</key>
+		<data>
+		HKfklSj8VhR2EzCE8ofVd4RYRQY=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/evg-Tq-8lW-view-ucl-F9-1n3.nib/objects-13.0+.nib</key>
+		<data>
+		zPU0BnKvNuwlseo2E6vt8JLaYgo=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/evg-Tq-8lW-view-ucl-F9-1n3.nib/runtime.nib</key>
+		<data>
+		j2do2Hs6zBpP4WC3BAl7OLEMvY8=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/gdp-mw-qbM-view-9io-ds-cX0.nib/objects-13.0+.nib</key>
+		<data>
+		d/IHIl6IzsePs7xu42S+TcfHOGI=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/gdp-mw-qbM-view-9io-ds-cX0.nib/runtime.nib</key>
+		<data>
+		E90fhNosau1nBrsgWWNs00Oa3T8=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/goY-15-duQ-view-Jeg-gn-92c.nib/objects-13.0+.nib</key>
+		<data>
+		fr70MpGGohlLhk7KlNR8joK66cY=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/goY-15-duQ-view-Jeg-gn-92c.nib/runtime.nib</key>
+		<data>
+		cre9GxXXkA2M5qvFdvPe/v7ic24=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/ujV-PI-Q8a-view-kau-mh-v7C.nib/objects-13.0+.nib</key>
+		<data>
+		juLVhC55Jr+2pwI2pHZrIThZM9s=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/ujV-PI-Q8a-view-kau-mh-v7C.nib/runtime.nib</key>
+		<data>
+		tPtD2fCHvU8g9M4dNgya4TiZIQM=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/v8E-No-sDI-view-Ng0-2r-Y5O.nib/objects-13.0+.nib</key>
+		<data>
+		qe+wxsHJQSSgYLun0cYT2QBswWE=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/v8E-No-sDI-view-Ng0-2r-Y5O.nib/runtime.nib</key>
+		<data>
+		AYriagnRZNlGF7b1SyPBE/7zsjE=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/zAT-C1-Hqy-view-AsV-ib-sdY.nib/objects-13.0+.nib</key>
+		<data>
+		WuToFlcURQQtIHQMV2aL2XI9tEo=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/zAT-C1-Hqy-view-AsV-ib-sdY.nib/runtime.nib</key>
+		<data>
+		RJznylt02G+6c/uuGFLt9LWL1q8=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/objects-13.0+.nib</key>
+		<data>
+		OYzQAh1YqEaX+3oquHUwwgcqlq0=
+		</data>
+		<key>Base.lproj/ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/runtime.nib</key>
+		<data>
+		MPpQfdLUWnUah1409ouzw9yIye0=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/objects-13.0+.nib</key>
+		<data>
+		dMpMFmJFhEtLDZhkPvJalub4GGI=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/runtime.nib</key>
+		<data>
+		9CSFBw+3dLKEScr2ED6VKPkvMUU=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/objects-13.0+.nib</key>
+		<data>
+		fzQcXSJz3MGEAHIzhqUfniK0NU4=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/runtime.nib</key>
+		<data>
+		zQaecBvh10bSuuMrHuTYSf0iVo4=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/objects-13.0+.nib</key>
+		<data>
+		jn6dl5iPuw/IPgEA+CgQmn1WtAA=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/runtime.nib</key>
+		<data>
+		1YoJPL8TTqfGcI7glg4Hn7MbMkE=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/Info.plist</key>
+		<data>
+		Rb1PngisAjbLxcr7codGzHxJuFQ=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/objects-13.0+.nib</key>
+		<data>
+		8W0eXMOqpnodKHMe55yWoZSE8M0=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/runtime.nib</key>
+		<data>
+		XxjEZqrQxkR5rHF+iTWhgrzUH+E=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/objects-13.0+.nib</key>
+		<data>
+		uozjpIBnyBl1hxrhTvQ65U0Qmi0=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/runtime.nib</key>
+		<data>
+		EcSgaatC+GcxgqZH1Xjs2jbWqzc=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<data>
+		mMycJzPxUGqJZgEHsFitbO28wIw=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/Root.nib/runtime.nib</key>
+		<data>
+		K9zyQkocoyD2Y97y21R5AY73/JY=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/objects-13.0+.nib</key>
+		<data>
+		DDaLxWhqS8FNugZ1nnEVHGG1sQM=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/runtime.nib</key>
+		<data>
+		fvRR5hiWW5OdpIX/jXX7CerR3sw=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/objects-13.0+.nib</key>
+		<data>
+		8Tbp7/WTH0xP5/3T/aod4+Cw9fk=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/runtime.nib</key>
+		<data>
+		8zsuRaML4mYmzYddZQXzJQcTqVQ=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/objects-13.0+.nib</key>
+		<data>
+		qoFkG0y0myabu3GxUzWTbEFXVb0=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/runtime.nib</key>
+		<data>
+		rEHE+El4goMk4VSfV57qFoU4M0s=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/objects-13.0+.nib</key>
+		<data>
+		+T6qC6Rd4RDtWuhfK5RtocjJp2Q=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/runtime.nib</key>
+		<data>
+		duxaoAz1MbQgtx/56+sB8JP7i1k=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/objects-13.0+.nib</key>
+		<data>
+		2fdvoAce0nxS3hSxNLxxQNboMm0=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/runtime.nib</key>
+		<data>
+		hA+sTr6euxxv0h6o6jyiz9Ii7oU=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/objects-13.0+.nib</key>
+		<data>
+		6HawiozQ4bwmlmYbu26dkMNtuCM=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/runtime.nib</key>
+		<data>
+		aoG3WOGORi2+q4O7jojMQF0nXxo=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/objects-13.0+.nib</key>
+		<data>
+		+RE8mlJdjD5vz2b7fumOGa2r+jg=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/runtime.nib</key>
+		<data>
+		zJIdxU8lVGdtNkqofkuahyV8PA0=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/objects-13.0+.nib</key>
+		<data>
+		bZmo9D2TQGAvI+duojY3sBO6k68=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/runtime.nib</key>
+		<data>
+		nZig6oR+o6QnmgBQgwFowXuhP04=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/objects-13.0+.nib</key>
+		<data>
+		N9n3bOdeV722KEvc09DwV8syb80=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/runtime.nib</key>
+		<data>
+		3+NMuXm3A+kZqUwMmSoUGM370OM=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/objects-13.0+.nib</key>
+		<data>
+		XcOFNPWsJNF9mLFdgIOm9lHWh4U=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/runtime.nib</key>
+		<data>
+		YqWBmJ+QnIK39YsLDaybedmPYoM=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/objects-13.0+.nib</key>
+		<data>
+		esPtwoEESGfP7zYG1KhKs85vk1U=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/runtime.nib</key>
+		<data>
+		gL1R8ni+F4eIz5nVwLJWRz0CEwI=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/objects-13.0+.nib</key>
+		<data>
+		bAlrAiR1l+aZ2pRmr44c9ysv2S8=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/runtime.nib</key>
+		<data>
+		MnFKxJOGpXmUeDfoKCyTJc4GjcE=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/objects-13.0+.nib</key>
+		<data>
+		NTXpPlfUw2z5llC2U/pZWZZp9Zo=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/runtime.nib</key>
+		<data>
+		Mt9qGZR0opoBMQJtKypjBHxkG5o=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/objects-13.0+.nib</key>
+		<data>
+		sFdDJF459KIT4/WrCNY9KzTx0XA=
+		</data>
+		<key>Base.lproj/ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/runtime.nib</key>
+		<data>
+		2CMEWllD1veMCennKKqCcpiZjSA=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/0OW-Lb-med-view-6jZ-tR-GOi.nib/objects-13.0+.nib</key>
+		<data>
+		DO6ns4uW25jwzrNkluB5YYO/PeI=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/0OW-Lb-med-view-6jZ-tR-GOi.nib/runtime.nib</key>
+		<data>
+		oQB/c1Q2vDkiPUFWOjITmrzhKlM=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/3We-Fp-FcO-view-LJX-3S-Dq9.nib/objects-13.0+.nib</key>
+		<data>
+		ECiK8aQ9pUrabnErIEonIW/XlQ4=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/3We-Fp-FcO-view-LJX-3S-Dq9.nib/runtime.nib</key>
+		<data>
+		8OAkAJuykRXqP+Gdn3oh2sYqBX4=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/88R-In-3iT-view-uRL-GS-lCR.nib/objects-13.0+.nib</key>
+		<data>
+		/BcwkdPEmPp5MyxXwEqacA7MPoo=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/88R-In-3iT-view-uRL-GS-lCR.nib/runtime.nib</key>
+		<data>
+		wu62YEjAasP0mAeUkUoBH9mSEIA=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/Info.plist</key>
+		<data>
+		hZhoK/QGdT/cZUhkGA9UwfZJZ+g=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/LxX-oY-lUr-view-RAV-lC-YaE.nib/objects-13.0+.nib</key>
+		<data>
+		Rzm0APkJWsoEW+QjxfpsGndWSw0=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/LxX-oY-lUr-view-RAV-lC-YaE.nib/runtime.nib</key>
+		<data>
+		9quwf/w1VPAzoy57MbH0HxzsoBU=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<data>
+		KaF2c9i8+bs0J55qVnhgqEKtZp4=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/Root.nib/runtime.nib</key>
+		<data>
+		z97zjrod+pER7pysh+2npfWVNko=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-0OW-Lb-med.nib/objects-13.0+.nib</key>
+		<data>
+		t13KeJckhN8ILMmnWtkC5OgzckQ=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-0OW-Lb-med.nib/runtime.nib</key>
+		<data>
+		C5DKtpulW7zZWCzknyjcZvjpNoQ=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-3We-Fp-FcO.nib/objects-13.0+.nib</key>
+		<data>
+		LdwqKo8YFiR0xZCKpbqauQYHvn4=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-3We-Fp-FcO.nib/runtime.nib</key>
+		<data>
+		JS2+F7W8kgWTXp/WHBf3arcpGic=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-88R-In-3iT.nib/objects-13.0+.nib</key>
+		<data>
+		JMTyg1NzZ5Go5s8j94HOm3lM5ls=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-88R-In-3iT.nib/runtime.nib</key>
+		<data>
+		kF3VvSuVAAPa6ZTTB4NY6SgwW1I=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-LxX-oY-lUr.nib/objects-13.0+.nib</key>
+		<data>
+		me7/GzP7FBrQOtg2hduLajhPRIQ=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-LxX-oY-lUr.nib/runtime.nib</key>
+		<data>
+		Fq4SKocJbhlZff+ctojNZPy2bTU=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-UUY-8n-3Af.nib/objects-13.0+.nib</key>
+		<data>
+		PceDOhGVN/ccHdULkHfxwZjF+aA=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-UUY-8n-3Af.nib/runtime.nib</key>
+		<data>
+		t145OeCdwpifuFuqfxgJNdU9O6k=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-VH5-xX-4c1.nib/objects-13.0+.nib</key>
+		<data>
+		FF2x4EAxvCEDlX6oszx0ojYuJNk=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-VH5-xX-4c1.nib/runtime.nib</key>
+		<data>
+		4C7+VpC6WtPEMkxTv6QZKfdins0=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-chl-Ei-7pX.nib/objects-13.0+.nib</key>
+		<data>
+		AZLnaU/LBXVOLBE4KJ7ggC0gRJ4=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-chl-Ei-7pX.nib/runtime.nib</key>
+		<data>
+		8Hja470EiZyx3MmqktFNltqahd0=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rGA-Rv-4RZ.nib/objects-13.0+.nib</key>
+		<data>
+		/bRUes0KrIHcJy3kZ+K6h1j5lzo=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rGA-Rv-4RZ.nib/runtime.nib</key>
+		<data>
+		c2wveFXWULrh8TTYphqQvL91Yyc=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rP3-r9-81N.nib/objects-13.0+.nib</key>
+		<data>
+		onEL2oVaAETIL2UxllwzEEglbNE=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rP3-r9-81N.nib/runtime.nib</key>
+		<data>
+		Svd4JrP8PorYBMEFAqpWgmyo0/Y=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UUY-8n-3Af-view-qeB-0O-zLN.nib/objects-13.0+.nib</key>
+		<data>
+		xkB2WMLxGupsQleY5YT4JSoE4nE=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UUY-8n-3Af-view-qeB-0O-zLN.nib/runtime.nib</key>
+		<data>
+		DjrqrV4hcJqQYMaF4KNfi3f5PXM=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/VH5-xX-4c1-view-c9s-GX-tyK.nib/objects-13.0+.nib</key>
+		<data>
+		j+WD/lMs5tJ8CAlAf3Ue14d8bmI=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/VH5-xX-4c1-view-c9s-GX-tyK.nib/runtime.nib</key>
+		<data>
+		Q9m/mrOaLSyslGKaT1qRDDwqanQ=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/chl-Ei-7pX-view-arc-co-Yz3.nib/objects-13.0+.nib</key>
+		<data>
+		miOvsu12qCt4leKP9wc5f/rYvbs=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/chl-Ei-7pX-view-arc-co-Yz3.nib/runtime.nib</key>
+		<data>
+		QJclJhPGA2bdkEspxriveH6C9G0=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/dPk-Cn-xbL-view-8eo-2R-FOu.nib/objects-13.0+.nib</key>
+		<data>
+		LhJl8Y2swTHvt3pA0ICOEmKDGJU=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/dPk-Cn-xbL-view-8eo-2R-FOu.nib/runtime.nib</key>
+		<data>
+		jYzpWpcRB4i2Rmh6F3esxzYacY8=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rGA-Rv-4RZ-view-DjP-bn-Rc6.nib/objects-13.0+.nib</key>
+		<data>
+		SQ+i5SQIPHMOSDcTM829G6hrqd0=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rGA-Rv-4RZ-view-DjP-bn-Rc6.nib/runtime.nib</key>
+		<data>
+		f3OmMz+5TM9fbUPCTrBnf3/aaO0=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rP3-r9-81N-view-79l-LV-Qxk.nib/objects-13.0+.nib</key>
+		<data>
+		jeqV7EAnfjAHcVqtVnuwvLKsL/g=
+		</data>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rP3-r9-81N-view-79l-LV-Qxk.nib/runtime.nib</key>
+		<data>
+		K8qjTbNceFUVtZtEwn90JeeD14Q=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/Info.plist</key>
+		<data>
+		pGQHKh8XkTNc06q6Sv0CwhJhZMc=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<data>
+		VE+pRTiT5duqUeN9Ca/o8E1R0vg=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/Root.nib/runtime.nib</key>
+		<data>
+		NiV1oj11GJvv/CmLBmESk4+Z2Ws=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-XHb-tg-0Di.nib/objects-13.0+.nib</key>
+		<data>
+		mhPl3dMhXnpkI81wv+Txy1NFu2A=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-XHb-tg-0Di.nib/runtime.nib</key>
+		<data>
+		QARx7dTWBIfBqs5gGwAjMCS3Kt0=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-gjN-t9-9DX.nib/objects-13.0+.nib</key>
+		<data>
+		4tldtopZic8XNglD28Xyp5YBZTg=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-gjN-t9-9DX.nib/runtime.nib</key>
+		<data>
+		KO3u6kT83C8SJt1wR1eGZU/+ZH8=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-rSZ-0M-uTE.nib/objects-13.0+.nib</key>
+		<data>
+		e7LSKgdqVlTecF0Qxa4tISt6UWo=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-rSZ-0M-uTE.nib/runtime.nib</key>
+		<data>
+		htfUP0Qze5Pw9QeA7wfmE75Zl1U=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UIViewController-IpD-ys-Rj7.nib/objects-13.0+.nib</key>
+		<data>
+		S7qc2S8lzse1sjqVFIoJc1MolvQ=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/UIViewController-IpD-ys-Rj7.nib/runtime.nib</key>
+		<data>
+		zttM1pV5GkanAKEq5WRCA5vP6xY=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/XHb-tg-0Di-view-iJf-3C-yD9.nib/objects-13.0+.nib</key>
+		<data>
+		cyUronuKXqfZDimPIITbMUO5yv8=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/XHb-tg-0Di-view-iJf-3C-yD9.nib/runtime.nib</key>
+		<data>
+		BctSsZAKtIzXTHZVTtscaibjhdw=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/gjN-t9-9DX-view-OC0-k5-f0Z.nib/objects-13.0+.nib</key>
+		<data>
+		vy87Qu4sy53SI47iL+R6bHa6II4=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/gjN-t9-9DX-view-OC0-k5-f0Z.nib/runtime.nib</key>
+		<data>
+		2nVWAPl5rUFnnww0TcZoybQzqJg=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/kpj-vC-v4K-view-dws-AY-RZs.nib/objects-13.0+.nib</key>
+		<data>
+		nr38Q7dZKPV+5BjAjFjDmqz7j3I=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/kpj-vC-v4K-view-dws-AY-RZs.nib/runtime.nib</key>
+		<data>
+		zNv89rdijwyLI7SM+Us+NbA2SO4=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/rSZ-0M-uTE-view-e9A-tJ-lgC.nib/objects-13.0+.nib</key>
+		<data>
+		tEG0aLwQURoTgUJX8P8DSkAoCI0=
+		</data>
+		<key>Base.lproj/InGameSettings.storyboardc/rSZ-0M-uTE-view-e9A-tJ-lgC.nib/runtime.nib</key>
+		<data>
+		x5nFdJdrKhIdnhpVwzDJ9utQfho=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		VVs+jYqF+csbKIOvNs9xhwbkBxs=
+		sfjA6PbfaiuHVCwutRPRgQ4Rf6g=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		7OCSSFS9xMg/xr1Qbg0ciBF4rUQ=
+		3aPIdF8BatZH9QRTyBAQT7ye8EM=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -30,367 +670,207 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		oEmrbevS/GwHfwHvnr1xLO8G6Ig=
+		Bv/xB/lhrVdMpf8u7lL1C9Izmpg=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		onzjT8sw2/eAK6Nbto9THdku3YE=
+		iP899suHB1dQwWZTno27YBUmJAA=
 		</data>
 		<key>Base.lproj/Main.storyboardc/8zf-F8-4Cl-view-vc9-gL-XJU.nib/objects-13.0+.nib</key>
 		<data>
-		+sg2WPk/lyDOxVyx5bsv0NvzZpQ=
+		ZoAezP0eVQTQMAX7OBvKI7iKJqY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/8zf-F8-4Cl-view-vc9-gL-XJU.nib/runtime.nib</key>
 		<data>
-		HMHfStSRpAfKO8LWtOGTeZ13GTw=
-		</data>
-		<key>Base.lproj/Main.storyboardc/9J7-0D-aMg-view-LLr-cj-uaq.nib/objects-13.0+.nib</key>
-		<data>
-		OMYRajZpI1DYJvGPs7IDsJujlzg=
-		</data>
-		<key>Base.lproj/Main.storyboardc/9J7-0D-aMg-view-LLr-cj-uaq.nib/runtime.nib</key>
-		<data>
-		1LaIayoPAgvwdNPyT0Aaya7ootY=
+		Q5f7KXS7Dw1cV+EtZ/RmhM6pYKc=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		BBhZHyq+ZTfTHeh/wkPpjG4GFY8=
+		ehcLq0cDoLbCyCAp/hOzlaJRIBg=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UITabBarController-q3R-AU-YT0.nib/objects-13.0+.nib</key>
 		<data>
-		+zliKE0ax1nPMBIVR2cPyDdWzJg=
+		xda4S7rcei/hQdowO3u8nWbWdfU=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UITabBarController-q3R-AU-YT0.nib/runtime.nib</key>
 		<data>
-		wuLClTo2k/vDRTWuoTRYU0CPtHc=
+		gc8LzS+Pwb6Y8xmyCXYQxgO9dXs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-DBS-kS-F5b.nib/objects-13.0+.nib</key>
 		<data>
-		mGONSnyQpNEan5zjUGI66KRPhF8=
+		e9rVS26rlkYVVS3fZfF20MyiNDo=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-DBS-kS-F5b.nib/runtime.nib</key>
 		<data>
-		EOzA8/JaRdpijhOmebRn+hnIFkE=
+		FIm3tu6I9SUMsy0lDe+cA8sQxWs=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-LFa-Ky-WYf.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/6VJ-jD-NfQ-view-M6Q-YG-qUz.nib/objects-13.0+.nib</key>
 		<data>
-		26o5LhOQY3rpm7XzCl6fKuDkjzU=
+		eVqYAGqh8gbl79WZzUaz4KGdZQM=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-LFa-Ky-WYf.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/6VJ-jD-NfQ-view-M6Q-YG-qUz.nib/runtime.nib</key>
 		<data>
-		nnBhjs/EG8QeT/ONXl/JAkLMqzE=
+		vx6e/mx5cyDuRQpiYfcvpXJItaQ=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-cGu-le-ak5.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/B4L-TL-IR8-view-qhA-SE-P6n.nib/objects-13.0+.nib</key>
 		<data>
-		JQ98KHHfj3fJSX7TUo870JIf43A=
+		+jbCVNjQfKEX79S+XMkz3AKcJVo=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-cGu-le-ak5.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/B4L-TL-IR8-view-qhA-SE-P6n.nib/runtime.nib</key>
 		<data>
-		/As9snH7kpk/dXYRtdFq2hZoy24=
+		uKIEkkRu8Lb5Ejbny3Np49ewLnk=
 		</data>
-		<key>ConfigSettings.storyboardc/Info.plist</key>
+		<key>Base.lproj/Settings.storyboardc/Info.plist</key>
 		<data>
-		h3B74+J7Ntm8GLV+328FrrUlC/4=
+		NSCM6kJPguu2r/pnpg2JSWkCUoM=
 		</data>
-		<key>ConfigSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/Root.nib/objects-13.0+.nib</key>
 		<data>
-		ksdp26f96kuE/dx8gPCqIxqYyPo=
+		vFX8ntfJYaF/4mXQnBsardoG2K8=
 		</data>
-		<key>ConfigSettings.storyboardc/Root.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/Root.nib/runtime.nib</key>
 		<data>
-		+kOBMBqfaCpPKP/oX+TnLYIRAhM=
+		zYrCyRZrqFMgcZSA8Ua3VMUOB/A=
 		</data>
-		<key>ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UINavigationController-0MN-yo-f4X.nib/objects-13.0+.nib</key>
 		<data>
-		DsxlZupXtImhd7cmH0tTYGMQ174=
+		A0/x9o916lHawF1NvxZt/iq4FTU=
 		</data>
-		<key>ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UINavigationController-0MN-yo-f4X.nib/runtime.nib</key>
 		<data>
-		d7CZV+hm51MYkV1vKN4sHjyjGkA=
+		Mp2Reto3NGkAnFqKBNd7IhmQra8=
 		</data>
-		<key>ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UITableViewController-6VJ-jD-NfQ.nib/objects-13.0+.nib</key>
 		<data>
-		w9J00jSnouzW8SMWUV7QjMW9Bkc=
+		ODH0wy3nf5xRR+fkME6cbRrXJMo=
 		</data>
-		<key>ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UITableViewController-6VJ-jD-NfQ.nib/runtime.nib</key>
 		<data>
-		BH4aG1t8JFJvQHZKqUm2GqNSstM=
+		sbKOMn28RXZkBMNBovjcezxSPBY=
 		</data>
-		<key>ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-ATn-xM-wfh.nib/objects-13.0+.nib</key>
 		<data>
-		uwMvpqM+bjac2HFXC9D1pqzfqh0=
+		hMB4U7wHk+/VP0kTqlAMwV8Xtoo=
 		</data>
-		<key>ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-ATn-xM-wfh.nib/runtime.nib</key>
 		<data>
-		LhQj8NnwzHf1skiuAXhmGpm9cGo=
+		AEs908VZWCkmefOdhOlUG6SLzEw=
 		</data>
-		<key>ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-bZJ-5A-c9m.nib/objects-13.0+.nib</key>
 		<data>
-		O/GXp0/x8bzWZI+RaCKMHrC3/28=
+		c4vZnyGpxW1xJltm+pW9yzmPMUs=
 		</data>
-		<key>ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-bZJ-5A-c9m.nib/runtime.nib</key>
 		<data>
-		shYWBfY3U5bHU/TVjkJ48cW3mYU=
+		1avB2Jz/0n6NYnfyPyVFrWdYy2s=
 		</data>
-		<key>ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-vG8-os-Nos.nib/objects-13.0+.nib</key>
 		<data>
-		kVrAK37TEO0DHCG+4FGaU5vuz1A=
+		5UZkA8bJl01FAzKz+ODSNK28tuI=
 		</data>
-		<key>ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-vG8-os-Nos.nib/runtime.nib</key>
 		<data>
-		f+lCuvoVo8PLHlvdFlbtLTmw4BU=
+		u5GqvM0HravrFm1lDz0Dy8tLqx4=
 		</data>
-		<key>ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/u6n-zE-oUh-view-jbG-Nv-nDL.nib/objects-13.0+.nib</key>
 		<data>
-		rFd08/sO2AORDZA1u6KzA0y8fqs=
+		uId/vMNFATcRwkCxpZ2ihC6pIak=
 		</data>
-		<key>ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/u6n-zE-oUh-view-jbG-Nv-nDL.nib/runtime.nib</key>
 		<data>
-		jRy3utLHPWvpIxZwSroDZ7b/6ZE=
-		</data>
-		<key>ControllerSettings.storyboardc/Info.plist</key>
-		<data>
-		q3gxA1W1w9o+HLm6fooY8mcXvYM=
-		</data>
-		<key>ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/objects-13.0+.nib</key>
-		<data>
-		//QlCX34xuw4bLL1BR+7PzIOT/g=
-		</data>
-		<key>ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/runtime.nib</key>
-		<data>
-		/QgCC9s0hhHMbXZuxLbuMpX1HLI=
-		</data>
-		<key>ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/objects-13.0+.nib</key>
-		<data>
-		1siDrCRSZ1OlNWZL/BKaaPN5Pes=
-		</data>
-		<key>ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/runtime.nib</key>
-		<data>
-		unuoCs26OSy1kbbJeq4Le/OyD5A=
-		</data>
-		<key>ControllerSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
-		<data>
-		mcqtqkwDTXIaB/38mikbZjHRWLc=
-		</data>
-		<key>ControllerSettings.storyboardc/Root.nib/runtime.nib</key>
-		<data>
-		v5gs1+Aw7VRyehNBKQbYjmMar0M=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/objects-13.0+.nib</key>
-		<data>
-		KlOyVqbNftVlyb1CUqsI/Yv8uV8=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/runtime.nib</key>
-		<data>
-		r8FQxbtpitnkPAfGsvAoawlXNao=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/objects-13.0+.nib</key>
-		<data>
-		NYxGYDl3r01rCgDKD1YY0VAwqfc=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/runtime.nib</key>
-		<data>
-		DciHy2f98qVXlO06PTE3TXEFrUI=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/objects-13.0+.nib</key>
-		<data>
-		yaDH4rSJ05cqSCOYaxs5ErI7KNA=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/runtime.nib</key>
-		<data>
-		+/R2ioXNrbE8vUWFJrALAUdCiCc=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/objects-13.0+.nib</key>
-		<data>
-		+rtw3Pg7n6SNeSb+ZiKQrwAVISU=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/runtime.nib</key>
-		<data>
-		Qp0d60qaZsUhYWoj7MUh3qHM04g=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/objects-13.0+.nib</key>
-		<data>
-		NBEsnhvhxngxCxf1aVXDDVmalxs=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/runtime.nib</key>
-		<data>
-		5I4+1Vj0haGdPptQLbO4FvW5H+Y=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/objects-13.0+.nib</key>
-		<data>
-		Ay90Ls0+ExvNxBiJ5Ua3HTs6DbY=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/runtime.nib</key>
-		<data>
-		k/Fb2O2C059lJZ65xuIaRQxGVJA=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/objects-13.0+.nib</key>
-		<data>
-		PAROVS0YwfcqOgYaSAndQtq2Eqg=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/runtime.nib</key>
-		<data>
-		4l14RI8lbY9uUgHa0DQjWZUR2Qg=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/objects-13.0+.nib</key>
-		<data>
-		9OCPyK+s82CeR5dLl3osXoxtFpE=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/runtime.nib</key>
-		<data>
-		ABbKFr4SeDuup4f6KzTgesPpf2Q=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/objects-13.0+.nib</key>
-		<data>
-		xSSFgNoyG2IFI/+Zk1c2B+kZIF0=
-		</data>
-		<key>ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/runtime.nib</key>
-		<data>
-		FE+PfOHmoTlPNfZoZRYRVS04Ni8=
-		</data>
-		<key>ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/objects-13.0+.nib</key>
-		<data>
-		Ve17cQzKWUCCjF8KC2iEl/IvE2Q=
-		</data>
-		<key>ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/runtime.nib</key>
-		<data>
-		vvJWEiILCyswL6me92yQVdC76Ls=
-		</data>
-		<key>ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/objects-13.0+.nib</key>
-		<data>
-		2dRB8iWgOKqyZ8XW9wRz5VMpeuQ=
-		</data>
-		<key>ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/runtime.nib</key>
-		<data>
-		LXwJ6kZHOSnBNhxaYkPuV6LUunk=
-		</data>
-		<key>ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/objects-13.0+.nib</key>
-		<data>
-		u7sf79NOk4SDkjR+Bh90+7KszEc=
-		</data>
-		<key>ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/runtime.nib</key>
-		<data>
-		a3pHj85rXU8oGL/QiF11RfkiMEY=
-		</data>
-		<key>ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/objects-13.0+.nib</key>
-		<data>
-		ed9G131z0yCXAo4xlOZ8UpKfblY=
-		</data>
-		<key>ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/runtime.nib</key>
-		<data>
-		NV5nIutAqlqacTCJRb5AUh5cOLw=
-		</data>
-		<key>ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/objects-13.0+.nib</key>
-		<data>
-		piPIXFwrRQ4R5G0o07Armfjkr8Q=
-		</data>
-		<key>ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/runtime.nib</key>
-		<data>
-		KWs3Ne8fdeZDpIm+2lLr+fTZKcU=
+		YuRPOP6YUbXRJ6aFwr8IqtOlqrw=
 		</data>
 		<key>DefaultPreferences.plist</key>
 		<data>
-		ne9RHIbwIZe+9pElcGroaj8W3D4=
+		YQB01oOQ/7K6dj5deG3d9RoV3Sk=
 		</data>
-		<key>Emulation.storyboardc/0vc-YY-wgE-view-hdR-np-tlK.nib/objects-13.0+.nib</key>
+		<key>DonationNotice.nib/objects-13.0+.nib</key>
 		<data>
-		dr3KSAPC+mqtKtZr0BtqpmgSZTc=
+		KdJPWrpj3M1AltkSKEdrcmu7iLU=
 		</data>
-		<key>Emulation.storyboardc/0vc-YY-wgE-view-hdR-np-tlK.nib/runtime.nib</key>
+		<key>DonationNotice.nib/runtime.nib</key>
 		<data>
-		nWQjSs9b5pTjswyyywYkOp6tn4k=
+		07cTpSscdloAgSKUCmperE3RuRg=
 		</data>
 		<key>Emulation.storyboardc/72Z-je-Eys-view-MkU-9V-PoJ.nib/objects-13.0+.nib</key>
 		<data>
-		dYLvUs6HoPgs+YJxwaMrkFv7MRc=
+		2pLGeaTKAWcOlaFJRdhD5zsi1Xo=
 		</data>
 		<key>Emulation.storyboardc/72Z-je-Eys-view-MkU-9V-PoJ.nib/runtime.nib</key>
 		<data>
-		HffbgD7gSjbM610cIarREGUVF8o=
+		FfCCf2TljV6CY3k3wm0xcRLQB0Q=
 		</data>
 		<key>Emulation.storyboardc/Info.plist</key>
 		<data>
-		dQ7qjuA7H1prbf02rjHlT6C8EMY=
+		AJfZylqVz213d6gEUivVs/0TSSc=
 		</data>
 		<key>Emulation.storyboardc/Root.nib/objects-13.0+.nib</key>
 		<data>
-		Z1HAjrUGd/cxYElDK9PKORvevDw=
+		pQE+Bh5z3WdfOI+0S7ppZlnxb2c=
 		</data>
 		<key>Emulation.storyboardc/Root.nib/runtime.nib</key>
 		<data>
-		HMxAK8tFEdS17Sa5W66GHiPmsp8=
+		zMSb0y0QDHskPe6Vun+MzMGPulc=
 		</data>
-		<key>Emulation.storyboardc/UINavigationController-Izy-YD-mb0.nib/objects-13.0+.nib</key>
+		<key>Emulation.storyboardc/UIViewController-74x-Ml-S3c.nib/objects-13.0+.nib</key>
 		<data>
-		kLTmSQe1rY/TtChFgntQ5VFwrgk=
+		kXVWOwULp6ZyAIcOw+oAyGIumJY=
 		</data>
-		<key>Emulation.storyboardc/UINavigationController-Izy-YD-mb0.nib/runtime.nib</key>
+		<key>Emulation.storyboardc/UIViewController-74x-Ml-S3c.nib/runtime.nib</key>
 		<data>
-		OVtHC0egphgw3IlmKyltx7HNnhk=
-		</data>
-		<key>Emulation.storyboardc/UITableViewController-0vc-YY-wgE.nib/objects-13.0+.nib</key>
-		<data>
-		7a5Tsif4RLeaLqXr2Ix9D0BW03k=
-		</data>
-		<key>Emulation.storyboardc/UITableViewController-0vc-YY-wgE.nib/runtime.nib</key>
-		<data>
-		LKP/7BZavKI6XLdejM8Ql1JNbZk=
-		</data>
-		<key>Emulation.storyboardc/UIViewController-eUP-ac-CEr.nib/objects-13.0+.nib</key>
-		<data>
-		+xD/SMDyt2eiMt7Ftw5zv+YISio=
-		</data>
-		<key>Emulation.storyboardc/UIViewController-eUP-ac-CEr.nib/runtime.nib</key>
-		<data>
-		IvCMn3M1ktqwYNHumeqsa5X1gU4=
-		</data>
-		<key>Emulation.storyboardc/vzh-dh-b6l-view-be6-8h-vmk.nib/objects-13.0+.nib</key>
-		<data>
-		ErAEKIpgkb6gPE3I3ktZ2pg3TRc=
-		</data>
-		<key>Emulation.storyboardc/vzh-dh-b6l-view-be6-8h-vmk.nib/runtime.nib</key>
-		<data>
-		p0Sq9mCRIOrsHHR46wPB0vfpLw4=
+		nyWCM7qdh9gVqxouF/D93RYH1Xg=
 		</data>
 		<key>Frameworks/libMoltenVK.dylib</key>
 		<data>
-		doWzGtHgGWrTZyhIK+R55qSEOio=
+		n1bnJyPsyNX4jKUl7jxO3PxRJ/k=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<data>
-		Z1XYAi61RVjHmOF/V1emS4tpHpw=
+		j7S9mV/fMZlhc90TQw2cpAMTMmA=
 		</data>
 		<key>Frameworks/libswiftCoreFoundation.dylib</key>
 		<data>
-		TqShY729Oldq9fG9eyinuOXaPPQ=
+		LrsB/cUynwEOZ24Fi7Ia4jvt9V8=
 		</data>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<data>
-		4ZYsPc/RSdMrh9sBkhQzRCJ/94I=
+		7ANZK4dQqCG+8Kf8ok/vu0np6cA=
 		</data>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<data>
-		EqJ9LRowZfd4xwJPIqvVky1PvHY=
+		gLCRxMnh8dhjyJat/mYt1tab8Os=
 		</data>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<data>
-		GXhtrU2X91mPwH081089qfTvkoM=
+		brbRhQyPujww8bIuAHI2Hc8AXf8=
 		</data>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<data>
-		nzeKgd7jBarpJ07+Gt0AZ1vjIf0=
+		x622hFq8gKHJi3GRZWEHkZTOEhc=
 		</data>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<data>
-		VNTn5SRYZx9qiPS0PUpDXArflQQ=
+		YfIdoLMu7pqi6ZZCzzKJ0IEE4QM=
 		</data>
 		<key>GCPadNew.ini</key>
 		<data>
 		2DwHcommm1TuA0T+nOigzg8yu1Y=
 		</data>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		tUoUee13ue2rTG9tpSstShWKgpk=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		BCxZOFZUXXIg7FHChgIQjOiIDnE=
+		R95Cg9hGB0NZVRhpk53b9vduT7E=
+		</data>
+		<key>InvalidCpuCoreNotice.nib/objects-13.0+.nib</key>
+		<data>
+		OlgBNWy3wmv4R/w8JyX2tByERz4=
+		</data>
+		<key>InvalidCpuCoreNotice.nib/runtime.nib</key>
+		<data>
+		YUfvSSqEI0zWIkP1yT9wn+AbsPM=
 		</data>
 		<key>MFiGCPadProfile.ini</key>
 		<data>
@@ -404,9 +884,25 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>ReloadFailedNotice.nib/objects-13.0+.nib</key>
+		<data>
+		GVVCbCSC2cBRQA/u5wu79qx3GE8=
+		</data>
+		<key>ReloadFailedNotice.nib/runtime.nib</key>
+		<data>
+		Hu+HKt/JJarJu0EITX3GTSbVEBg=
+		</data>
+		<key>ReloadStateNotice.nib/objects-13.0+.nib</key>
+		<data>
+		ZqmNELr0pMdVjo3AWPMQGFgnZF8=
+		</data>
+		<key>ReloadStateNotice.nib/runtime.nib</key>
+		<data>
+		8SUxEF8HM4pM17PrZapCGBXPpFs=
+		</data>
 		<key>SpecialThanks.txt</key>
 		<data>
-		m1xeVCqI7ImOUIbNbLKKu7CCaKg=
+		2AhmvrGBcsez7Bord8/gqwL2OMA=
 		</data>
 		<key>Sys/GC/dsp_coef.bin</key>
 		<data>
@@ -4424,6 +4920,10 @@
 		<data>
 		uOfDN4QndhDEslEWQ6HJBdDEbeY=
 		</data>
+		<key>Sys/GameSettings/RZL.ini</key>
+		<data>
+		sAKplRftvZJyzKgDKpMZOeqRLlQ=
+		</data>
 		<key>Sys/GameSettings/RZO.ini</key>
 		<data>
 		w04FrzDmsF7URJV2mnsrEqJyyWM=
@@ -8050,35 +8550,35 @@
 		</data>
 		<key>TCClassicWiiPad.nib/objects-13.0+.nib</key>
 		<data>
-		iyWSBAQ1epm3W7C9/t7PHNqdmL8=
+		XJHDDqij4hbPdhjYCJHaB9pNj/M=
 		</data>
 		<key>TCClassicWiiPad.nib/runtime.nib</key>
 		<data>
-		moczUKj5fAFhyPhWSpJMwxqb7Vo=
+		sNHoe8/hTaE0ISWhxUKd8vhhpM8=
 		</data>
 		<key>TCGameCubePad.nib/objects-13.0+.nib</key>
 		<data>
-		H3S5JJIjpcYg9ezfMEbqUcXSrqc=
+		H1FGzkaFN2LwsJp9Z/6NMNnLsCU=
 		</data>
 		<key>TCGameCubePad.nib/runtime.nib</key>
 		<data>
-		Nxn6RYtxIA6H9+6Mr60d0B1FbLw=
+		lkbUz+Mqnc4kVau5ueACdt+WLX0=
 		</data>
 		<key>TCSidewaysWiiPad.nib/objects-13.0+.nib</key>
 		<data>
-		bpnGN97mkJ+TLBkn7Y5kJmpkY0g=
+		1lVXrucsnHGt7XJVx/1PjGgqu6I=
 		</data>
 		<key>TCSidewaysWiiPad.nib/runtime.nib</key>
 		<data>
-		3Xwj1KEE+kxTTmloIyHGgisE1EE=
+		A3y/oZDUFkWZARlzDQahqfSP3HQ=
 		</data>
 		<key>TCWiiPad.nib/objects-13.0+.nib</key>
 		<data>
-		wVOfapEHLykE8YqTdhLRXiD6a34=
+		zADkGLAchPysZBR5sckL9H47vaE=
 		</data>
 		<key>TCWiiPad.nib/runtime.nib</key>
 		<data>
-		txObvzlKkWJCA+IbvtCGHFKBqBE=
+		O8BA4s0gKbuheyhmx72z2YkWjRk=
 		</data>
 		<key>TouchGCPadProfile.ini</key>
 		<data>
@@ -8088,6 +8588,30 @@
 		<data>
 		IyaS9z9Vv9NL9CbHi4U/6PbNxrM=
 		</data>
+		<key>UnofficialBuildNotice.nib/objects-13.0+.nib</key>
+		<data>
+		d0ljDDupFE0cGeErXaSuBvX9faQ=
+		</data>
+		<key>UnofficialBuildNotice.nib/runtime.nib</key>
+		<data>
+		Gfq+n1vDlsFAYJ8wGDoNy4/8IIc=
+		</data>
+		<key>UnsupportedDeviceNotice.nib/objects-13.0+.nib</key>
+		<data>
+		gi9HcfzEO9ze9+6T+gFm+0PCbTo=
+		</data>
+		<key>UnsupportedDeviceNotice.nib/runtime.nib</key>
+		<data>
+		ZaXz5FOUv83zeDR+5Q7xn7V4uy8=
+		</data>
+		<key>UpdateNotice.nib/objects-13.0+.nib</key>
+		<data>
+		ReNbADpQkjmUCMOO0b2CUhAu+7I=
+		</data>
+		<key>UpdateNotice.nib/runtime.nib</key>
+		<data>
+		d6n0AE/MEjTqMau/QH5YMXRTFgY=
+		</data>
 		<key>WiimoteNew.ini</key>
 		<data>
 		QwckJ8wptc/M00yhtyhLE6h+1tI=
@@ -8096,17 +8620,922 @@
 		<data>
 		IyaS9z9Vv9NL9CbHi4U/6PbNxrM=
 		</data>
+		<key>de.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0DZXw6zd72wUmJKUS/27Luo6DCY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YOaovlYaT3puezXzHMYDWvbf+8I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cOI2BYu/HoEfVsJEd7iJCloVYVg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EP0A/imSJQKmyuw/g0olcTo7gqU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RTpTcZbejjp9SRlQHg22YY51wM8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rVUkAevN9di3YGqdqQjoKjtwHCM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vdwkqDot/I9ISnYazQWhTXBlnT0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gT5+HMUL8BcHLXC4qVx3Gtv76Vw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>embedded.mobileprovision</key>
 		<data>
-		Z+I4rBH+DsQf58RAeqj9ht+4Ays=
+		anRvChttMypYU0pkICkScYIcVoo=
 		</data>
+		<key>en.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Jwg+gG8sWKjPUZr2469lxcbFQfc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Px9h2xEncMNohNh8j8UibDj6QLM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tTWh+YxCRk5QTDMsuQr8jYWKCSk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			spVTjXgRBEqMs3vWBjCUd/88LDk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bhTKTqO88AQ4I2mS0PRh5PY6s7U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WpTujjdndhLezVS7zSLutkHhs/Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VURs3+jMwJS3jqAZ9BF5iMbkAtw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wdCvJlGEzTjZIO04mp9M6HsGRMA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y7ZETolPZvAlmoA60vtPutj9+Z8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TXsvlutBY37Gc1pDJcEkpsK/nqM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Px12dzKH8k8Zr/+tVfkWMr+fCkE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WWVHb5TVe5s2bNt6iLi8F3bL2bA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7uZ4QOJUqTpFhnUCFNV8R2wThh0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DxMmT7GZVTr2N6MksuQLBBmDw24=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			W5eP7J5f1z/ktGskvyCTT8wONgQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U6vksghJbYEhTwPx3ngLR7/AZDc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5QQxPjSxQ7yQbdfNyO5wjgYXIYM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3NpNpddmv84AsZAIQQQEfjZ4Uo8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rp2F5HDPew5IR9VmBgUax9fW0rw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S+5fXmsLlRmK3dTanl0nWy7IZ+0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RGrcRU839A7eUBaeYXPMRU6TNLc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1SlCBHyuZyES9XR9bvI02lvwxaU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qc2LmrFU+ZXw2jYef/1s6i8BSY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/OWh01kxRSBDPdk15hy1+MKcrSo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			o70qy59KNZ9VX82S2W3IneIVesM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			51gkSPSka5d7PU0Dnvy0NFBtGYk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Luv5mTDcP5rqGaDMPOE54G9Bx1k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YVP82dm8lYuXJTvy+CUel5g3GbE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			w3jGpfQHA8rzIdwQjQp7QkNbSKY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Oe9d4TrN1raXWNMK8Z+6kEc5PsE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RXMtg86k+h4gcQ2NxEOKiumboeo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6QO0Quw9pZsKofkPvycfXnNkRes=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TVSgNuP4biRL1lciu1NIp+fYMPU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mS40wTGEc7kAAZMmsz+SkQ44cLE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			od5PeqLvVfzmX7Vtd+L76lTO5ro=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			15xpP+N5WtfurgkZ523mQU4K6Gg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wRDcl2hYZL1Z4Kc6oKnZVK0ayuM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/Kx80z4ysB0p2al9KBQsLNQVWcg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ovwOYDbftO5e0pikqL7QQwc7s2w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mm4NabzGc39XYou/OVHytBK/rEk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vt/o2Rk1HW9eLsYDzlpK5FXQw4s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6WOBQggCTPhKSs/vRECpsxGvW+w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rCeaZtewOK3HDa34Kv8bhtc185I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BgIVBCUso7yKtbeu/WwKz4jVXUs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zi05XcYdNzCgJULt3e8h7aV2yfw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2dK147nQAklV547T/tmB+1t2vFQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uIQ3BO8at7dZpQ5cVI2CD2nLlio=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oVs/9MZZUZXZ7+24RTjbcJ4gh60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>license.txt</key>
 		<data>
 		Bod2JOpcd+/jt+ObD5Ce2m4lpOw=
 		</data>
+		<key>nl.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			46YXPP6lCrEjqzGctBYTIIAIAbg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Zp7OPQXK9eUv46mWrGPxJ6PdfXM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XDPZONU0YwfBAvoevziahdCUeRM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			12QKvRHF21SGX6cFCSMQr9l9spw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oTV3oTDrGD9WuR3BEofwLMCp4AM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0cuUidChjhvsXUy2bTaE1SrFy3g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fycLGbuGs7ZTYIOHu8W5xdJ/YZc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e6Qew1v5cKoMmr4fgzH529yX0/Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZVmy6p5BgP+4BuqTZVegRhG4UrI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Eb2gUDZr8zDxmXthYj3sSFbwEII=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mdndK8xXRJ0CNMwoCX7JJvVMWA8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WU2R4wcB6mdkvVT1Y5MLbBJ4NVM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sxryLf/p4PAHzLKzUu8bbD3sHnU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WpTujjdndhLezVS7zSLutkHhs/Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VURs3+jMwJS3jqAZ9BF5iMbkAtw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sww5x2QF5nXalMZ4G8twh0Vzucw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BhsU4Tdt/JHbzddRwTbyOmXRH8s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3hA5fe3TloVQSQ5x8K2nkKP+1Xo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hK/m6aXO5vXAsHHFEWJRXkBAjAQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dy7DL8AA0B3620utZbYm738ASu0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hTzver3+8+IDC3KVMHHAzGg2GV8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ER+U9fDI8VT5gnCbTq6k+JbXPHU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U7Z0C55qOmtZnRHh6osUnYHANRE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			03CKiE6St2FDPPNmeF58XAVOAt8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fqsakroh52y3I6Yqt9H3QNxOV3o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jtqNB1q2+0r6UxxzWISr/bldTTY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fSW2w4LK8lj5caFOYA0rhSJKlFA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sgNnwv8UVBqGxkl/wYqG8gOtJ5w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DySbZRJ+tWkN7ypHePwPj6xyUco=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4iXebuaF4J/X0QBN3GmijtU2C2E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OSmPWXixENLBkwL1oEoYuVopt3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Main.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FsjJrYiGDZdXmunQJUm6F+75EyU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Settings.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BwwywIeC+bjmWg9MD2UUITg2PGs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AnalyticsNotice.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3Egn5BMk73JBMALvUQQmA4gZN0jgrqvWmja9Dmavt6s=
+			</data>
+		</dict>
+		<key>AnalyticsNotice.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9SAjI7wg+7MiqE59s9Of0Dqu790SUYzVKnDlC3XOK6o=
+			</data>
+		</dict>
 		<key>AppIcon60x60@2x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -8125,21 +9554,1127 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6r55nDIdztfZN84g+4z7dR6HValxMd2BfMbije/rkE0=
+			S/Zo9Ur0yB1wffrRzoFsNQp4XvjZGuOmKeRDToHLtwo=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/2Ih-xE-Xnq-view-kPF-Zo-DqP.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O+ZjYdXJR45LuDcQPXydPBAh4Kj7+L39jVL4XRCfW1Q=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/2Ih-xE-Xnq-view-kPF-Zo-DqP.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oqT8q+NSj9FBkhNe1RZ3SqUqmy+oBNt6pA1vnkN6xYg=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/9B8-B9-G9H-view-hpp-ft-uA5.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mvWe4aNsbeZQfelPKxwI2Om5XMuv/tjE41aujC1NZaA=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/9B8-B9-G9H-view-hpp-ft-uA5.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5A8MEGObIIqRGmIb/dzdxpKYyyjrKJnGXkZZxs1/y/s=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w5cLcL8xX5OyduL+0qoc/U6rbN6pwlfTCGgwIyf5WSM=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/4H8EVqiJg/pqg+MsnGpiC+przRHLkxXKPhsCyxKQxo=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/Root.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d+UwcMPG2FwGaiFIyfozlVZMyuguHPEsvBAlkinIkMk=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EfDMD6mrqFHR2IcYvgmluEhIaAtP314ceQEMI+hKhMM=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WCgCsAGstl2w9AffDBWi7rfT/U6uZDnr/PPYd+WtkHE=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-2Ih-xE-Xnq.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JZCL7zQnkdYmy+arfUMA3so5O078Lu5nrHvnNCS4+QQ=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-2Ih-xE-Xnq.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gU/IkUSugyixdErO1kOko0NbajB1APs1xEtpTNFYnPY=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-9B8-B9-G9H.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wveVemzAiLcOMNUNpaHZ6vnf5dAORhzyLR5ijqsz/54=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-9B8-B9-G9H.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gv1O4G6lo5uNF7fuoHmHE5UutoPxy0NlhlqgVnCTufg=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-WFS-wQ-gHE.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dC+koewrFXNr1nUkU7gerbYDjD5FfaoYw6TOzZ7ZMFs=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-WFS-wQ-gHE.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9diavW1J7qIyYxjtod+l8Tfxd8DqIUYFne755cDanmU=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-aKU-4f-y3Z.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y+67r7MoIUDVG/xnCwVx3jqkvAf3EVQDNnEQm2dm1vQ=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-aKU-4f-y3Z.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9HTXKErhfNvic5ml6/EEBFHIgy9asymGUS5JiY7agh8=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-bU3-93-i1h.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aa/oKra31ryW4+aiGSwCWno+GurrQW3YeTkGhftjJgg=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-bU3-93-i1h.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YHROGP0zykrirUSE3suxj76rdHclkixwgXLtPae8mgw=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-dOQ-ab-KEk.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vtrAbTE3LrOfI3ANipfcrgiYZYdg/5SRRmA2Xv4Xu38=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-dOQ-ab-KEk.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			auNvrDA5n8BbJkeX/q420Ilzk69elU/2/zpH9fRFdG4=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-evg-Tq-8lW.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ucuMPZ5II9/vMhlZOpbFeTr0jn1Hq/6Bi5cNJKyYdUI=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-evg-Tq-8lW.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GFO+bp69/vFJp5wbZ53avqSoStPdZfg0QumP8V/kv7s=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-gdp-mw-qbM.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EW3/iGzmgRuRYcSH/iwo78qg76wpeUXGtaSixG0v6Ek=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-gdp-mw-qbM.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a9YkUd+DEOYAVcM87sshf63c5Zznwd90pZHpmo8pjGM=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-goY-15-duQ.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xbJRG3Qfs1nukQ+klbXZ+rMc//P6SOyJ3WMUWIHMRIw=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-goY-15-duQ.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sTlIYcgJI8dpX8+srntUnl+nusfZd2I1LGZhXRYyV+A=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-ujV-PI-Q8a.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f/VrGqelKJ8np6G3YC1FePjZJzgV9SQ0PUhJypZWgNs=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-ujV-PI-Q8a.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7tXoS22bFpJvNzThjm5BJlJHhdRYokmm5kChzxV9Aek=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-v8E-No-sDI.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5Bm1KBlV/h01GwGPa0AA4ARMOQ9mxpcrlOByJjZ1xxg=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-v8E-No-sDI.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bfhqeKzHqaglfToyUmQovfCdtHwFnQ295dlaWTVEmIc=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zAT-C1-Hqy.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z00kUBIVq5qDWXOaeWSlO+O1WDuIWIrBfqe+3UZKwoA=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zAT-C1-Hqy.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bPkl5N5WIKodGCKDX3gMZqk6mgr16r4S565oeY03k3E=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bFLqoCajVvTsXnvph8vfOpGwC9A6pTwgFS/86ULRups=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZrMcpolKYx9YhWMav+diWFxUj4eXiWBVfda50bLD1Is=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/WFS-wQ-gHE-view-LHW-fP-V0C.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V+Q+DpCJbbrCwEmCotg5oMmCtWa1lsaRtomAaW9uE+0=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/WFS-wQ-gHE-view-LHW-fP-V0C.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7cQNBjZGtw+AbGKv8/dchxW/yi6XN1SsOuUv+7sLBdk=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/aKU-4f-y3Z-view-fkb-0f-Gzp.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D31bikJBw2+GoFPelj1zPSo218MkDJbhZuhGUCdk+qg=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/aKU-4f-y3Z-view-fkb-0f-Gzp.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xZFNVKmJDSOVxI9EZeW6kWFzwvk/Oej0gDst3ra7gL4=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/bU3-93-i1h-view-Zin-bf-96c.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8yGGRv/dz1gj39W9qxkv/t+beEQNsc+1RzIyjtj0CqY=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/bU3-93-i1h-view-Zin-bf-96c.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+5IqXbffY7u8lEPrNc8Az1KIYCadDeZgVltZEC6Garc=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/dOQ-ab-KEk-view-lbq-LK-hXa.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TCvuUt+gTH4bjP7c0P7xQTHuzF0r+M59ECf2OZfzUvs=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/dOQ-ab-KEk-view-lbq-LK-hXa.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kOoGKgMixFaClc1slnx8d+HFkV+ls40VOXJQ6cv2A74=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/evg-Tq-8lW-view-ucl-F9-1n3.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			scwVtUQhamkADUhnu7WCK3mRxlPqT6UvvWiszDyU5mk=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/evg-Tq-8lW-view-ucl-F9-1n3.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l7p88rRTF+Ki14Sq9JkJkvzlgwn+Zou/yaKcq5jxWjE=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/gdp-mw-qbM-view-9io-ds-cX0.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dDbpOHXe0XgH/vUxL1bmTCrdM7u9c0hnStgSaPiV9U0=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/gdp-mw-qbM-view-9io-ds-cX0.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rw0qzw8QqqsuHb7kYU7Q66dYE+ppx3dEncrII2XH1cs=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/goY-15-duQ-view-Jeg-gn-92c.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oEClHq34RZkit6+iUVNMaVrisc5fxiQyjDqrqdva8yo=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/goY-15-duQ-view-Jeg-gn-92c.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0FB8EqJJKpo9uXkVl3pOEEoU1z9WnlJX1TWA0Ti9VDk=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/ujV-PI-Q8a-view-kau-mh-v7C.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tp7JkPZvEAVgvz5v/2Ewh+UBDzI8jWvPjrD75YVA368=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/ujV-PI-Q8a-view-kau-mh-v7C.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ijY5yIjKfF/m6obJBNfYSc0F+O2YqSjM06RR+8bE8ws=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/v8E-No-sDI-view-Ng0-2r-Y5O.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HEp2IxaDnWRNCBGb+gvhil3ouljPYrFd+mbc4vXFBsU=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/v8E-No-sDI-view-Ng0-2r-Y5O.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pVffxWEa181+Cn8b8V/Sa4Zb4XN6DtTGsDFBrllXleo=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/zAT-C1-Hqy-view-AsV-ib-sdY.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/SfG8AsYzJdIiPq6jouI9f/YzjruAQ5UnnQS5PwvaWE=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/zAT-C1-Hqy-view-AsV-ib-sdY.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QuldDihXHoD+0xsTJRYoJIAaIETpP3YknIg7k4SBR2E=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C1lV9deYPYBco/teWaSjWGVRKFcxwqdu+HUs960cCtQ=
+			</data>
+		</dict>
+		<key>Base.lproj/ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7qFbrwW1ozSwAa2gIJgTJiecnaQmxJzJAEPk1m+8i7k=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AY+/Pu/QLYOx+rJePBTdviO2xury9wvCEawL5uehI5A=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E9E2XDbUzJi6bqBlPn8yu13lO8i24ZIT1k4HlRWzD1o=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2YKR0Ke/lmMmgTo17gonjcOy9b6Hfa1vlX5Lc7r7nN0=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cXs/fByheQZb1EcANNDXcmEuKDQLWLqRKM7CnWL/Yok=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fX8fBPvDnTUH7/jZ2O1wCWEu5dE2IFJwfHtPCB/vLeg=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sVQODmtqYMMXVnGbPk0T1oQgRW4SI9kzR4WVgaRleKk=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HDMgZBCzVcUURT/y1CpgSeW7SGSqkzfNiGKhDmt1NNM=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xOLJSr1c9K+gHUZv1lgAcseR6ye1ae/kFzozNWWOEyI=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			reo5y1K7I61ZykVmuKDDYY2bmA8mjuzyzqUuqcGByQQ=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZS8nRYm+LMLm8K+DW/NyWXj0vm9JpFjtohsf6YaSde4=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cAzMn6HsqxthZgmz+afqOPPhslL9HFWmDPfC2EjGQNs=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qze9Ze7nTor/eYHTYzm0F0Awy+LFpTq9d4CCbfUpkTA=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/Root.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V0mJ5QnUhZ1NwuCPxYhimDzY56lMcUo2gSdmr3fgOCw=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z8PL8Puuw5UBMh+bvCYGorPzv9e08HMChpnf3eIVsok=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ixq0j7kfB+GgWfBTAz1kF1K1g1GQ87y6iEmImiurn50=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rM1+BVqsQARLVoIb0hSqkT9kkpwJ+bb5NAsaDr+v5uY=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tItI2qUNvnE0yiZ8ig+wF5HC+biPBDSQHGe6U9tD4tw=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C0g4SeCcMjxf6n3cbOwp3iE4XH57b5UyUIf5cLqzk4g=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1wtwsUaJ3mkTavksCux2hLYYNxE++ycqqlnL0BpvbKo=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LZ+L4YQS4BImuAAWXeBvlflfvoWBrJRQ+/G8svLv42k=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gOOb5JG8Y5BP1q9JCc47DzKUe95fNmxu+ggrS3ZVn+8=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1nYCI3TiFGhVzG4DQ8IAdbR020fsNh9OAmNx6YnHH0M=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wb3yWnQa51KivG9iS2FYi0YHGNsXSQKJEFhGxenlVk8=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p2fhez/PJnzXDTfV/CwXOy2HTqdPKZQATLMB3F9FHtE=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ewb2ANVHoHQxeH6oXUBQfP3jZxe8in6Cli3krURA0v8=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yPRO1jZXgg982hNq32SE+CFK/9zz791XRBB/VNOx25M=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f/L7+mOHgyevSqIoNqWtWvizcwPDMCjaDXyvrsuktdg=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lPjRHPppqPzQJZ9o97bKL8vTofObUMBLX+K4oPhPCY4=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nnZUF+0M903oudmHarY1nirwMWFK21IOBKa4paM+328=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8KJWHQU7kOCW2jWLu4bEh5t2nEGJIou4vHzWrITAgxg=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWfwFNLK7rFI+zH8J40/BEITabuqBUcx56WKT3rBLk8=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zRIXavN2037nmvYScvyzWE6DMDJtVVVQV9HOd+DzGxo=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8Fr1qBQjJ/P+JfGv0z432kAAR2rzHSZ6K3MVpQC20qo=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WQldXJP3Cqo+NhP00BKIkyMdR7jQjI7Bs2PDG0HI3uw=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zBlAcWed8E5/cjQGx5nrgj5dMNWIkq9h/15ih4pw48Y=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HjemLVnKK1lVNKHn9DPBXqg3NvNxberps1B5jYGJCn4=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XNWNqZA3lyzKMWhkxhfYS0NYFgiIRKmMZb4UPUiXUq0=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m1oekxx3nRIT1wnYcAdg5GzNTZ2sFf6EVsVpB3QF0Nw=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nv5xjC8foz89o6XLJ3IwuzUMJTcIy8jURBwCx9uSG3o=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xcU6eal2LMku8j58d87FJkkDRhXqoaMo+VeGGVEM/hA=
+			</data>
+		</dict>
+		<key>Base.lproj/ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KqhomLmef4dgQlMJyqy2BKrvSeKRdYm4KVYo4b/Ejc0=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/0OW-Lb-med-view-6jZ-tR-GOi.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lU8+X6nY4Rh04rGsELskQ2upogz3ymuSeopYN+xT60w=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/0OW-Lb-med-view-6jZ-tR-GOi.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UcOVlpeoCBCN9u2fgs3+BEGkBv+dDU/2ZlDJjaLlUYg=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/3We-Fp-FcO-view-LJX-3S-Dq9.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SMJw5FJ2uSnPn2J62f3qpmZipnNcF9Ml8A344zOUB34=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/3We-Fp-FcO-view-LJX-3S-Dq9.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HW3fSddaKnZ0kGTGMj756zSpyOpdIW0xDWjJvDbZwqM=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/88R-In-3iT-view-uRL-GS-lCR.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mVnfAV3N6kC5LY8I0/+Aecu64XjbUv8ZmvApCcoZodg=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/88R-In-3iT-view-uRL-GS-lCR.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OLJhYvnfWmMxvXoqMmyIvgmR/t3l8ckVmbOXhY/0sx0=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PGnvMhIRlnHX7OEp+56KArYVRZcHZCm/lziomhV68Ao=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/LxX-oY-lUr-view-RAV-lC-YaE.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oHAcJYHWFdfAuAr+2W1IPDpp4n31ZlhRUmxcr+2qejs=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/LxX-oY-lUr-view-RAV-lC-YaE.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tqCwGOz+cDZ/8vg1e7oGCri/UlLZG8c9lGjUVUFAPwI=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CuP0BKs8kQEHsZ/ekiIniUIqhg+1vnqWRcMwd0MYpPI=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/Root.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eAmWasjRT8zEbJ1xLChaxQ+XhfQ1zuQw17TbjWH5e/E=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-0OW-Lb-med.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3KSU/ub7uFzFa/zrYB9tCo1245AGYmzs/P8Tn+CF58A=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-0OW-Lb-med.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EQ5Of5UoOH26hCpH8ahIQAWKvStlc9nzAW32VJs1RfI=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-3We-Fp-FcO.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QHHluIgm8VHpxVSdDrorigiZBuAbAikPzDaD1hmztY4=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-3We-Fp-FcO.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VEs9zv2GostgFn6uhoHvCcfvhHgLA3lvBkfu961Ki/k=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-88R-In-3iT.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0+DZlPq+EybzNccaLxO5JmGPf1vDHhPXroCEzVcoqiI=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-88R-In-3iT.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PaCaebFnSKHsm+DqpMAY5F/s64FrxTbz1EQioZmP/VY=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-LxX-oY-lUr.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q4Psrie/jB0kTfytyjLDamFWnYTL+DOgv+i0NSy7stA=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-LxX-oY-lUr.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EB6QLijat1f2y2UoIMUiWjKv2+OLU1UJkWFaRNaWyQk=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-UUY-8n-3Af.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j6pg6IhZmcFu3kQK5/YvBh3gRggYi/XJ4ZbLoY7Zhk8=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-UUY-8n-3Af.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			riiMB45ZfeL48sM6snpwBOAOTkDgieWVQDcEJAvueEg=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-VH5-xX-4c1.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5NGSYvX4mSb2JPeY6zHZkTSrG5Aeqx5kwj7CmA1brk8=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-VH5-xX-4c1.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VHerDER4A7bdSJuH9aRIgFVsuVJ78i6pEy+OvmZ0dgo=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-chl-Ei-7pX.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x+xMguNoZJ6yklrJs/6R570oKu9/mUToeNECe02fvq0=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-chl-Ei-7pX.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VsWGM+q03+SO+ZSqckFbnew59djP1We8W5iLt8E68nc=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rGA-Rv-4RZ.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3WTgJTAsfRMmIDVMeSWW1y7erxPxMTvlnkIx/J6FL5U=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rGA-Rv-4RZ.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kc5ukdENjMo5N9x+P5f1eh5clbBmYYylmZtkQ3Bv5d4=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rP3-r9-81N.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tNo7tXiZzvqNLwXjzZJGUNj7szdIIWS2cCQqlB3LjyA=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UITableViewController-rP3-r9-81N.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U5zujkS1qqZHqbWXdy/FxG1eCeK2ZnADyl0l3dM7+hs=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UUY-8n-3Af-view-qeB-0O-zLN.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I44zfd+THKFs+AetrbMiuqSTDVnNrH+lhGpwd0vwiDY=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/UUY-8n-3Af-view-qeB-0O-zLN.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nU2aE8Kj+SgQaYxPPFrpS1lpLaF6mnQaZlQEHBEzdy8=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/VH5-xX-4c1-view-c9s-GX-tyK.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AxDM9zW2iEUI9vjW/giX04Oml2vaHcRbxmgJ+2LPfZs=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/VH5-xX-4c1-view-c9s-GX-tyK.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wRvURwy+YviUh0xTZLufpW21ylvDko/j465Khk1r9FY=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/chl-Ei-7pX-view-arc-co-Yz3.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B0Mjy0ykCa1fI6iLDiNOXQiUAoeoBNEBCQROkJeENCY=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/chl-Ei-7pX-view-arc-co-Yz3.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I0kz6me/aAb/6NwAWxGwWzXZRLa4FuraPrAle52wmvE=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/dPk-Cn-xbL-view-8eo-2R-FOu.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y0CIMB83CZ+1CUVv/f0Q9dRLloYQ+zLdYQaMvUF7Tz4=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/dPk-Cn-xbL-view-8eo-2R-FOu.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7AMwvgmVq+n5udrrK+hmJYZOuXMOlRHK+T4GRLk8AJQ=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rGA-Rv-4RZ-view-DjP-bn-Rc6.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RDoMjSqsei34nmSS8BqFfH/L/v9A4SZBlwHsGdlVD58=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rGA-Rv-4RZ-view-DjP-bn-Rc6.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3mX8hI/uUeWUvGQ3DqD1dVdmRaiG2qr6hbpqRnNIoiA=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rP3-r9-81N-view-79l-LV-Qxk.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			exYZHCrmcvV0O0lYvcP8rbW5VX5DrgrZIsK5xnPWkkc=
+			</data>
+		</dict>
+		<key>Base.lproj/GraphicsSettings.storyboardc/rP3-r9-81N-view-79l-LV-Qxk.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JcoQfcsihZexWhEFN8QamJZaFY8mhX5F45/Th1DBHiY=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YzRBn/4rVYhglnAyIqaEbd0JGnywxCZntzTMJfZ2qBE=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k2pnCsMAaSBro5n3zF0DM1VRWwyBA0QpKMWyIwtJjxA=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/Root.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MWC+mKDLUeqxpj707uF+VVmEjEXIGT+VCpvUhy43Gjw=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-XHb-tg-0Di.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KBbtj//HbCBCKBHoSZRIxs7Vi8bFMaEzpxdSDmwTkug=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-XHb-tg-0Di.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j0yKJQ7i1D1T9C/t8V8A5lOLO0HzDtKP22Fberh3Qto=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-gjN-t9-9DX.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZPtHhknw2izVD19WwjuDezhHwWMzUOT0AXhOL1bvHYA=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-gjN-t9-9DX.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TaNWiDoxtMwG3eqYhMHq98EFRMjB6Acj5gXYTuB1MbE=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-rSZ-0M-uTE.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pwsWvsYo51kRxXcXUkeyTLc3y86OiZmYy4gtkKbo1Pw=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UITableViewController-rSZ-0M-uTE.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			325SgIZ8GcADnBTQccpSEL4dqY3iXPTwq7RwZsGV4OU=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UIViewController-IpD-ys-Rj7.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oF0NdgdEd8vPHUuFMhUuMo1fDrV1Xv1+0RAQFaK32ww=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/UIViewController-IpD-ys-Rj7.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JJ3dxt9YfRjrEbD2cIrhM0P4xBWzherSYWZISIctHYg=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/XHb-tg-0Di-view-iJf-3C-yD9.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			88k9igpKV5ohjz8n+sBlymiPa4EYPJ/lWGiswJHX8iI=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/XHb-tg-0Di-view-iJf-3C-yD9.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iJ1Z2fGEvNgmUcZfTV/wJYfIdX8NQZ9z8tfWzsjYFr4=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/gjN-t9-9DX-view-OC0-k5-f0Z.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BZ9BEFEt5W2eUYlf8M39rnm3KcofhRzkIemvgQjNxQU=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/gjN-t9-9DX-view-OC0-k5-f0Z.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NrgUPQLlOTqW7/abBAJkvf6LRjbmosveFamGLgiDBbc=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/kpj-vC-v4K-view-dws-AY-RZs.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/6SJ9uXXIHxNNzaUVXm0TDbUkr1+8xAEiyN0bQeVXB4=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/kpj-vC-v4K-view-dws-AY-RZs.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			C/31NAD/em9PJwGmShVzMlgLDfGiwNlGJSPj+iUjNeo=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/rSZ-0M-uTE-view-e9A-tJ-lgC.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ga8vW16zcbXbElIyxtBZiXCRZ8FrhcMsIchiq1wzGN0=
+			</data>
+		</dict>
+		<key>Base.lproj/InGameSettings.storyboardc/rSZ-0M-uTE-view-e9A-tJ-lgC.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			heN4mWS/QusbOQbqv/hghhdZOJe+Ve62kwmMNqN0AIE=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pGkkuGnSs3uIE45FolWOx7V2LBr/UQIp1OPts87Yb6Y=
+			Jx72GQ+LExRRgO2AxPnhMEFoPyZTrqsBvrnn85GEml4=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SoIV/9NXysbkOSaSu5H2B2ocrmUqGv5rytPhJg6VpqM=
+			UCjAGOU5oX69NvtY3x72jvAVjqsOAMiLiv9LtojSIuc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -8153,623 +10688,322 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GRx6C5LW4avxizKMLpDdL0od3tbGwfB+PhUjm4frgOY=
+			k1bX5ri1+wiMcEdDvDBXxRvQegPXQLG4fD1NB71v4gc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V3ZQou0D3752+McWKXPydGQXqWgblZFFHi+ofhL+7zc=
+			ycaDHWZQVLN4wNVBTN9yFJIXpqxT3oM7VVu6qvyCQek=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/8zf-F8-4Cl-view-vc9-gL-XJU.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vL89xlCsUxOkcPb5QylExqmEIOj57SQ4DZhNpwGdUUk=
+			CgjA3Nkd439401vlrTHtIJ7Y2Hx2fitZDv4AGclvegM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/8zf-F8-4Cl-view-vc9-gL-XJU.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jN5uTqh27yQ65Vnp8rHQkObPb1XlusckzOE6DHS+EN8=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/9J7-0D-aMg-view-LLr-cj-uaq.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WKuGfrQnzSuPpAYCbJYtTim6CniNg11SdWYqd9+JOGg=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/9J7-0D-aMg-view-LLr-cj-uaq.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			PPF+jaBP4IRi83s5Tq5h3RZnOKrbp5jsIqT2QUIEi0Q=
+			J49T3PX/yI4NCdp+5r7NeaIbCawF3AEtm9m8ArGdprw=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L9MCN4LE3fGgjolkgNU0repj3o4mLWXPJgpE3TnfsYg=
+			uVQBAqBADXrC6iGgn4FmiB8G9Km+lotBAfenEO6fDlk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UITabBarController-q3R-AU-YT0.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aXgY+ca4VsDrTQsB0UEA2XD1C40gguxroRX0MX/k9Uo=
+			0whzB4kLSz4wMaPf666D3h5YTZ/JmwdjR/T5yCXlkos=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UITabBarController-q3R-AU-YT0.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yTxZcvfnLfOcKZzQ5F21ZUwMGsO3njpfnCuLbf1yXLs=
+			fOqunQMTk4eVbmxLkNsqOVo8aV/kJRI6D8kXKtv4xRo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-DBS-kS-F5b.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3rSJBjC2zkVUq20G9CsG4f5Dms5nKS8yzOKrs+RtGFw=
+			ks0p/4K+GEOEBn2GSYtlwaSziXMuLyxbC9fij80A7Is=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-DBS-kS-F5b.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TN8zSPjFrS45CbDtt4WV4ljtNOp7wPxG0mwjfZX7dXY=
+			08+lVHxquqE418kT2DzvzUCrq71SWLgHSffD7G2EJp8=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-LFa-Ky-WYf.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/6VJ-jD-NfQ-view-M6Q-YG-qUz.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aiEdN8r3W0FVYH6lBkUlOzbVxJGljpxNgDGep71NGOI=
+			kfX90cqlVORjufkzxvmlpgDoqzD4W8872KBCprNy7jU=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-LFa-Ky-WYf.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/6VJ-jD-NfQ-view-M6Q-YG-qUz.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oX7OaDLgVPUBDcW1Hh63hcKbmX89YGCZmkqFNgJHtdk=
+			jz0CKVgCvw/ViHEjU5dyz3i+EJ4na7t5yqZIGOMNxzA=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-cGu-le-ak5.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/B4L-TL-IR8-view-qhA-SE-P6n.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eOE7gG1eJ4XLdNfFN/2F8ZbV7FxiPEbNr3zxu47hn1Y=
+			lss3+lKZ5hek3I1LIu+e6sRcmVVhE+UHXXlcMzX+gJA=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-cGu-le-ak5.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/B4L-TL-IR8-view-qhA-SE-P6n.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mAbSyvn62OdaCfAfcikwZad5KsJeYCvUijhDaZUkh1Y=
+			+d3ZHsE1JrDVN5ghCLGLO/KNUjXcyGVinan2I/b3OEA=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/Info.plist</key>
+		<key>Base.lproj/Settings.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RWdp5anEkGp1iqtYIHsMr9SZxPb/xch3xId27p3ybgg=
+			/K1OJymYuMZHHUhsgSfPEwj1FXhLDrRXWLUg0YqHbL0=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/Root.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d9pupnA8Rgj3EfZVqsp6AIOGQ6URhi+/FBnVKh88dpI=
+			01jGkJlKrsVKiP4sPNq+kCkr/w+Mmhw/6PTYBmBe6Po=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/Root.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/Root.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DaH83FMoHDOoTCAiqWbjmz3q9ofTqqtwQrjC4UA6ylA=
+			t43KCnYshH7vbRzopkdQLqaf93M/qNRtttm+1pX1ZVo=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UINavigationController-0MN-yo-f4X.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h8L/4eI+ItuWPui+hX4+MdI/QACj7tH++1Y7VRM4Xkg=
+			D5ccrGz+rANiCbqWuZ0KjcWrOyVWUznz43IzW8s8xvE=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/Thq-CB-Jd9-view-dCs-hZ-r8f.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UINavigationController-0MN-yo-f4X.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			734Sguo+olEk5S5W3EZ/4pPWBoCFNavC/Txuz3PS1bw=
+			1/Ydcg/1XZJVGsaekOSIt137jGzuaZHjcaugQAMmQW8=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UITableViewController-6VJ-jD-NfQ.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nmMgud8FhTUcqp9EcSBo0AHBi6o+gody0bP33oy8Jr4=
+			5xuFQTBa8BDaw9ez6Unr6TGHUDHy1NkGW+9/cxM/Qic=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/UITableViewController-zSU-9e-4LZ.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UITableViewController-6VJ-jD-NfQ.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v9IKtml2k+49WFrMD/gsguzGLtlAILhJ78T0p9n5oAo=
+			JPJt1qtiaO2TavBdolDjxoeKDeTRtKonzvNXU70qo3s=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-ATn-xM-wfh.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tA0WM25SZhoPtu6ah6Kq8EDQYQflXYBF3KD0ppl/+jw=
+			p7xiShRX483OkZYGQXF5hMLaSBk9KL4GahvQomF/LCY=
 			</data>
 		</dict>
-		<key>ConfigSettings.storyboardc/zSU-9e-4LZ-view-yr9-SU-r9i.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-ATn-xM-wfh.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DxhJvQJhJ6V2NGutsOKLX9tmYXWFRHbzhD7lgsOYUzA=
+			09s5wpsNi6Oe20on/KS9zRMlKU3n4+MJccPrat3GUUs=
 			</data>
 		</dict>
-		<key>ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-bZJ-5A-c9m.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qOCtK79m0yInySuhfoOQRpqGNakTHULrWYa8f8rfrFQ=
+			csfX6eJGyjtu7zfr035KYKRUAxyPWvQ8R9qZevsk5ic=
 			</data>
 		</dict>
-		<key>ControllerSettings.storyboardc/3Gl-fr-3ym-view-mho-g0-dXN.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-bZJ-5A-c9m.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3VjFLBkfVYXh/xMo8kWAkvAuED10TSA/Pn0hCpFo3vM=
+			Y9gYtUkdc/x1jYZ8nlFoDdz3q3Hq4a9J4EJbzMo6OPs=
 			</data>
 		</dict>
-		<key>ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-vG8-os-Nos.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7TqB13W8E9NPFdSkhVrjmBs3JmiNyvG7Mf13LcjbpfI=
+			90whqh/k4T8rQR7ao8eN09qrb4XluKdX7wfMzmbWYaQ=
 			</data>
 		</dict>
-		<key>ControllerSettings.storyboardc/6bQ-Dj-mFK-view-ikZ-vg-KwB.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/UIViewController-vG8-os-Nos.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OO4Xc7wjyRucnoFGAuoVVzJh+/s+Zw1Ivy7E5SL7CKA=
+			XAQbPrHCRxSoMNFYUKuCWefEcn08U2SROYoHKI9yUeA=
 			</data>
 		</dict>
-		<key>ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Settings.storyboardc/u6n-zE-oUh-view-jbG-Nv-nDL.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zPjgEYWFnUjGBVZEwn6H9Lpd1OysfZZDy7l0z6hB+1E=
+			hAV/Wfabc+BWpsuikSQmU4dRl8qg76lLqiX/Tojmsfo=
 			</data>
 		</dict>
-		<key>ControllerSettings.storyboardc/CBl-HU-ZTx-view-Nh6-iS-gES.nib/runtime.nib</key>
+		<key>Base.lproj/Settings.storyboardc/u6n-zE-oUh-view-jbG-Nv-nDL.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AEXh+olkhomRl8QD3Pjvc+5F4p0IymIa5BK86fkNoMk=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			9nekZZsN3v10akSwlmZ4wPJYgbTTx3s9vdyZgfs8keo=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I0nwljR+JElcUKBOyt/XHUKj00X7ry6Py05GaNMaeNU=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/JPL-hJ-93c-view-YyH-kS-io4.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cEu5whr75N5YqaUejDxdNRxpFouW+cegCIE7nkW0Lrg=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IYkb2HPYuPOqZUQWMjSg3g8fkdqg9TH5hZ5XGqFgcl8=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/R3b-Ox-sS8-view-zRS-Vc-3nx.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g0FmyJGWoibKOhS9/pccdInC6p6PxQC668ikLv9SL38=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/Root.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xHPkGPRHJzTNV1uOa+hd90mjZdfiDzJAJrpba+xhsrk=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/Root.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XZXZ9TyeXFjsnqhhNP43vIRDC19lBKTLvR909M4kqwY=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			S7lDHjQWaRjTXyugsoAAaUlFwR5mj8mdpsaoHPUdkks=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-3Gl-fr-3ym.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P/hcFVxf6RXddk8iTDraVGNpYeYv5iWZe+CZ2Fc+T74=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			TyAQ+zzYNJjCF5hREG2fgTvNPZrl82tRTUrpT05k6ig=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-6bQ-Dj-mFK.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xpOhocfgzhVpo0/ULyxjDlwxbIf/tj4lMj2bGzl1yMs=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iJqqWSA6+75o/3m519SsASrnysnMbHR0uKLRniy3hq0=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-CBl-HU-ZTx.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SK7QzysPyTdqDd9isI3NGT7fGuWEWA0VNF18UEIl3XA=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			v5Ax6w6yL5vIvnhZ/jLgyvXT/8mStClCEs68y9gVimU=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-JPL-hJ-93c.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SY+JSP2htkwJTLMezH6N8mqDvdesJzbygDfdOtFt2r0=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VrhVs3uR+qY/r6Vk8Ir8ul6JI3LzuX/JDG/+I2ibCuY=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-R3b-Ox-sS8.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pL+Ost9hlx6dxyftK01oga64C+Z2aKMJFL+HHscItZE=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EFCLWQxNXhCcawxqyC7Yy25kfNLJuvtlQrp+2ZeXyqU=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-cCm-i9-QPx.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mkJWfrpu292r4Ps7J3/nJDzEdFdExChCx1JNI/SU4I0=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0km8POI59pfF5SlLcTgcoZq0xqfOOV2d9vkvFOCiqLc=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-e9W-dj-exp.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BfB4ze+PWsBeKbwTvSkha1F/2aGe+D55n8VGF2oy2GY=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Q/cTB9GD+ihYCpD3enylcPQUKcGm57MaCAgka98B71Q=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-v4O-Xv-FbN.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pYhBNuMtGCfMJ8Vh8IY64D/2tsl5KfgN9ZmhZU4uGEk=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NyZRE0Ct9lYv8iOJxIlIye5jSPqHKrhxXqAwTcPsCJo=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/UITableViewController-xwN-gx-mk9.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CJ/AyV1EVWDmfflfOUZieqKq3pxOWO18WwgE7Ql5yjA=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			axfVfvHDBOIWt9JXs1d/ouIGLj4DYYuhkaXjvPxZBx0=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/cCm-i9-QPx-view-Isd-Pf-9NO.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dDcPgbDhOZ7PMagOWXXtc3AnbhgLmB+AiQdnMjfNAfk=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			h/ncA9pwLwXgG7p4FVfxpwjMYwygwhNXdP/6UpGCU38=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/e9W-dj-exp-view-zKg-VD-ewA.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HP8Asm+f0fF3coSGD/Bf0+D5ANCj6nK0as+y/kb+muU=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/URepvIYYzO6OwoIsjEUYsnuG31IgeNiyCYplAN+9RM=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/v4O-Xv-FbN-view-8Qm-pK-Afk.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			m7Gw1FjUkCO+QrWQ7o/ZJeqVgN9eaoOym5tvrZdZvPs=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			cxHXi/o5+/pOOJ0/oX89ln3b19hpjWU0xeK7SDgLH2Y=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/xwN-gx-mk9-view-0Ry-Za-1K6.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g49LeCcevHiC1Vwf3cynxJuSe9ODDsiufaoyzCUA6l8=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			wXbZpRl3vNqfhfeILsb6R8MlybusqyhIJ09dHz5Evs8=
-			</data>
-		</dict>
-		<key>ControllerSettings.storyboardc/zQV-EH-2Q9-view-rdL-en-U0d.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MwGSV5mMRTpU8LEwvo5NmONVjsMrPS/d/QeuS2SWO54=
+			MGjOUDKbKUOYMzoL5c9AtCs+jrx5lt2MyLB2MBhMpVQ=
 			</data>
 		</dict>
 		<key>DefaultPreferences.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AX9RRsigXfe6ftjUeRmcFdLCJJ1XYsk05AQLoVEroxU=
+			vLwkUTr9xHUxKfdbm27wztoystXlTLoLWXadB9c+N7c=
 			</data>
 		</dict>
-		<key>Emulation.storyboardc/0vc-YY-wgE-view-hdR-np-tlK.nib/objects-13.0+.nib</key>
+		<key>DonationNotice.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zvtlWzMaz8ucAAM6pUcxcc7EqXyV8Rom3QGcFgmneMw=
+			zfv+mWmzk53LHvCh+OXqhKCfNrGNThtsDxYu5QjVEXs=
 			</data>
 		</dict>
-		<key>Emulation.storyboardc/0vc-YY-wgE-view-hdR-np-tlK.nib/runtime.nib</key>
+		<key>DonationNotice.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4BDn4XjHtrTF7NVJz0jd//uqmZ5JguAykX9KfJ/bRkI=
+			3Y9sDeUu9rzoYfyzfWUIfq/pcJiN+4fBK9Fom3YM+GQ=
 			</data>
 		</dict>
 		<key>Emulation.storyboardc/72Z-je-Eys-view-MkU-9V-PoJ.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R3xOZ1dMKAQhcnUGGOsjmM3VZ8hQlHrUZdeAdRV6qyk=
+			bENVtgKnnN/qxpxCn5fQMAXLRP1KZBmgLzlO96CVFN8=
 			</data>
 		</dict>
 		<key>Emulation.storyboardc/72Z-je-Eys-view-MkU-9V-PoJ.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lVdzvNa3RIDZz6lWw4QSl0TmtDC1re4MkTQ8O9QbbAU=
+			1SPTB9CFAVEEsnICFCzErGoCC/1Rivg/w9IyDKGowvc=
 			</data>
 		</dict>
 		<key>Emulation.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w8p6VWzMmad8pnyXnVYi95KurKf9+TX+ie8OGaHJdug=
+			E4yrQqekCfFIBd3xjI2T9v4NOyOzssUqCEY3wYBWByg=
 			</data>
 		</dict>
 		<key>Emulation.storyboardc/Root.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p9CC/vEShY8x3849MVYzz+/4xh1ClqUenVIGDxOV5Jw=
+			GwF1xR0tmtYBYYorej25iCWL/nxO96AGpyB1nUemCqY=
 			</data>
 		</dict>
 		<key>Emulation.storyboardc/Root.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mBdnVNzzyyjtRKK8+ORZ3GuE+nOfq6P+d/qglZ16vcE=
+			lMXnihCdqbo0rky3mszKi9PerLAIVqD67BYolxOGs4Y=
 			</data>
 		</dict>
-		<key>Emulation.storyboardc/UINavigationController-Izy-YD-mb0.nib/objects-13.0+.nib</key>
+		<key>Emulation.storyboardc/UIViewController-74x-Ml-S3c.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KVm4BJaZbz11G1y23sxG2xxjnCriyodHOwp/vl1wlKY=
+			VW+7xLo4DmkHLrATv8ReKsY9ygXlJCpQ6bbYfeKiTT0=
 			</data>
 		</dict>
-		<key>Emulation.storyboardc/UINavigationController-Izy-YD-mb0.nib/runtime.nib</key>
+		<key>Emulation.storyboardc/UIViewController-74x-Ml-S3c.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iiQ71V85+AJDA5fVyVhDF865b/8AWLaE6pjKh377JKA=
-			</data>
-		</dict>
-		<key>Emulation.storyboardc/UITableViewController-0vc-YY-wgE.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g6RPE9ZQzn4nvPez66JzWSdKSqSH4Vvq/gRwcA8DE+g=
-			</data>
-		</dict>
-		<key>Emulation.storyboardc/UITableViewController-0vc-YY-wgE.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KcogDqJcKlU5PMx9N12qAk2FPEitz+feNTAke2FHGIM=
-			</data>
-		</dict>
-		<key>Emulation.storyboardc/UIViewController-eUP-ac-CEr.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fv0TX8I1pgYvsP5fS7kzNG17691zPEraFZxMdrZuss8=
-			</data>
-		</dict>
-		<key>Emulation.storyboardc/UIViewController-eUP-ac-CEr.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BpqCqmz2puNujBQb6SwINLKn5sRAVoyyGltxXcdRRPk=
-			</data>
-		</dict>
-		<key>Emulation.storyboardc/vzh-dh-b6l-view-be6-8h-vmk.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ii1QWPe9WCHMOSdtMFcFGxRExCOvuwJhyMUdHhxeJUk=
-			</data>
-		</dict>
-		<key>Emulation.storyboardc/vzh-dh-b6l-view-be6-8h-vmk.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1yoBVQcuLOQ4pmnguqba99Ye0x4FtPJpm8pLLbhUnw4=
+			1qAEghQ3n+8V7z5LzOXHSh/AjTXQnq8LOar6/Fq039Q=
 			</data>
 		</dict>
 		<key>Frameworks/libMoltenVK.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vDNDu1ost0DC1Nrm5F+MzLQXzzEnbcp7MhRJ3OEm0po=
+			sMlrOlaq82jdbaTbUcDa1OvCLtzzcH61rmz2Fq04A8k=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1uxJzrXezZCQ5oZbxvavfAzPH/sc+xbffLMNAmdC/N4=
+			dkomK6EyDN1hgrtfaXuOTmX5RDuDjSI+03j6oWY4pZM=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreFoundation.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SIHhVGb0QkVlevJuy+9MnM8AjLaELl2KjXjCCFETAW0=
+			Azbq0Bvsp3pJzqjMg5KNVG6JZVKQRL7lWKjaL8ijOiY=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8nxosWMTV8Kcc3XODk5O0ISIX+jMvMnfqonAv5rrvgM=
+			SvVkYnRElcE6+qdcvLB1VmIY1AtX1pUQ8W2nGWpUN+Q=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iNvej7fmOI0Wb6knDnZpnWPzYE8iRp7QzRHQ/13C3Jg=
+			OmV4Vu6pMw4R8abt0b/dbopOx4BAsPrYCNGLzKZQA8k=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftDispatch.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			742CxZ2qWjpv6/bHvJzrPLMcBIqT7mkWSeDUAyg8XFY=
+			1Lq7XL2mifGon2hpfAnTJXhPkO8rNdcKLJdT6G2wrW0=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftFoundation.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Th30kccyuhSuJSsH1siW9OCtihFGRsp6VOpGpkvB1Nw=
+			qP9l2lMqcppNlwleSMKuSPrDZPRu6okwjGyPilJLbME=
 			</data>
 		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pvBLHL24btDaR31IbLQlcs+RQNUPO9FKFxWz+5rJ9sU=
+			HeFgKmu0ZpOlydWPdt2cnS9859eYgj+LItQ02HgfKmc=
 			</data>
 		</dict>
 		<key>GCPadNew.ini</key>
@@ -8777,6 +11011,27 @@
 			<key>hash2</key>
 			<data>
 			ODSAvog4kBXvkbrewvAXyeV64Z+XSyjq1LeU08HJX/Y=
+			</data>
+		</dict>
+		<key>GoogleService-Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JGTY4/p6WptUYUca3WZ62G7bT0b3GHsAVDCeOSFgsjg=
+			</data>
+		</dict>
+		<key>InvalidCpuCoreNotice.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lKg+mpa/MLA3voIL5rGwCmiiO3JuHvbXkr0bgBuhpgY=
+			</data>
+		</dict>
+		<key>InvalidCpuCoreNotice.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pXaMs7g4Ik3G1UDbP6DJn+vuFP2YKvOXzZRi9vmnRGE=
 			</data>
 		</dict>
 		<key>MFiGCPadProfile.ini</key>
@@ -8793,11 +11048,39 @@
 			mo0k5pyVFK0X4dJFeEoXXAWf2eKvVdQ9ICPi6z/H4PU=
 			</data>
 		</dict>
+		<key>ReloadFailedNotice.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			61PnDR0uu6UUBlEQLM9hRPp609wxVp8KDhGM55Lh4Tc=
+			</data>
+		</dict>
+		<key>ReloadFailedNotice.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RD1o2HM+896j3SDna7oXmRSG4V5z+2V65nfJ2LwmeWo=
+			</data>
+		</dict>
+		<key>ReloadStateNotice.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x+r7OhoGmKq3nVq5QuZpx5JScV2z9SI6VvXNHYMKtlQ=
+			</data>
+		</dict>
+		<key>ReloadStateNotice.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CJRjisU+T6YkVW4CY8mtI8/jmbCw7u9zqaU7oVg95uY=
+			</data>
+		</dict>
 		<key>SpecialThanks.txt</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQD3h4RHnxSPnPENV8pm76xkJ01sAGYcb0ZfvJ3PIOM=
+			lpVk9TgPnk3JIoXfagGwVUzmJ+xPfw+A/OFvt0t5Wdc=
 			</data>
 		</dict>
 		<key>Sys/GC/dsp_coef.bin</key>
@@ -15828,6 +18111,13 @@
 			825TdPqIgIOePySoDEkAf8VldLCUeoSu1Ba3G8Zhz6k=
 			</data>
 		</dict>
+		<key>Sys/GameSettings/RZL.ini</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Pso7DQuI4v1OvQsz9yOhpfV3YOkKCxcejsJDA0mTkIU=
+			</data>
+		</dict>
 		<key>Sys/GameSettings/RZO.ini</key>
 		<dict>
 			<key>hash2</key>
@@ -22174,56 +24464,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QOM83CDx6mDS9Y18GXNrB7ETt4mNIb0VRHDSGEJwanY=
+			GE9hEdCcU9CFNCcodu3LaOosBtj2gX9AvXbGYEFpjY0=
 			</data>
 		</dict>
 		<key>TCClassicWiiPad.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rRc65V1oHsIMO1UeJt/dAra1nl2Y9IlKWITjWfGxqsE=
+			5hO/+Gxt2qpD9C95+llSFl6rRGQ5CQoYfDj8pxUY7n8=
 			</data>
 		</dict>
 		<key>TCGameCubePad.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ESMQg57FavxocQKW51s1nMLQtvZbBcYwNr5gV5kmOrA=
+			IEqlFfhkTETy1dpBNmDt2eQm7NV11xv6j+j4j1gY9Vo=
 			</data>
 		</dict>
 		<key>TCGameCubePad.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RdHsBstYg+Vf++n38NC0+CXfBliCMrWAf50xzyPBzU8=
+			Bu6E0eLH0fBxmD9DXbeu1RIi6kbkgcIZXL9LmjAblFk=
 			</data>
 		</dict>
 		<key>TCSidewaysWiiPad.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cPc/gTaCFpFG5WezNaypqLvY+yzVkKbpfy2IjK+gUUk=
+			SEmlN+rhcQcEsQWV1PT9tU/R1ihODUYg5fBI25XpvsQ=
 			</data>
 		</dict>
 		<key>TCSidewaysWiiPad.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CZuK2zOIfHyaQDxv72HXme2CEL0NgK+/YSPmijxIQVI=
+			n46A+V1FPgcP4GdA/4owhb4m2Md3yz3kKsaFbrSzqHk=
 			</data>
 		</dict>
 		<key>TCWiiPad.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SqZWAe/a8kiLAfXAbXuR6B7kk8SWHc0dYtymemh+Tp8=
+			yvJ5D5uozXCtPZBALpZvZhyhxu6jJeTW7SeXrjLy/Js=
 			</data>
 		</dict>
 		<key>TCWiiPad.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LdPcXFZBsYaRocbggiAmcQfenaA2/MyBihJe7Vdd3/Q=
+			COS5u9qUD90EOJxa8ABCZXb6K51NfeenUpmXKTLPvPY=
 			</data>
 		</dict>
 		<key>TouchGCPadProfile.ini</key>
@@ -22240,6 +24530,48 @@
 			8kR5BRGCeHhABRGIejxsn+iR1n01mSNwua/w1xBpxBM=
 			</data>
 		</dict>
+		<key>UnofficialBuildNotice.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZCb36QXuV99DPR/FZj34vgA3q9NktXXNowjfxxtBbH4=
+			</data>
+		</dict>
+		<key>UnofficialBuildNotice.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qH7cTI+z5GxtB7AC/HGvHc5tY/faQWI6eJTaZ02glDM=
+			</data>
+		</dict>
+		<key>UnsupportedDeviceNotice.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l0sma2phJ7h2TyvqlbJu5FVm74eunqGDgdnE8GI42OE=
+			</data>
+		</dict>
+		<key>UnsupportedDeviceNotice.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fFxFWGGjDqb4tG41a9S2gBEwh/d8m8AhG8SnSZyXEB4=
+			</data>
+		</dict>
+		<key>UpdateNotice.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PjTYkihCt3CP7zekCQa2dfSKbjxWzXJeG30LPEEKQcY=
+			</data>
+		</dict>
+		<key>UpdateNotice.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6r8akl0aX/AUCYWzKfZYJrfq0OIgh5qPrQr3w/NDu5o=
+			</data>
+		</dict>
 		<key>WiimoteNew.ini</key>
 		<dict>
 			<key>hash2</key>
@@ -22254,12 +24586,579 @@
 			8kR5BRGCeHhABRGIejxsn+iR1n01mSNwua/w1xBpxBM=
 			</data>
 		</dict>
+		<key>de.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/euyh79/Tj+ZhHuerA380armWRCXFwpJmZXb/uqPGCw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Py2hXD6nDWEaFqZTfqMP2jTZcaFUwN1FSTZo4/P8B90=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8EzMF1WrelzH9FmkwxiQlkWpwJ06bygBm6qhVjqKCtc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JBDSdx0HTBWTCpXzDuOVF75077+t/E2/v+6BmJPoJgw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OqrwM2MyinOJpHqaFs+qU9jYf+ZtH3Lz27Jr1kQ5N98=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LvJ4FuJ2PI3tmTIa36qG7uetm/vrKvHN5O6tEJkkGmk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bKNAnF2ML+kFMTtCV4sZHCSmcIzJlPcaD5wS0d/LJTE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DfuIrkhNWbMgEal2dLVoIoceMwCVjAracVn9OssHIb8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5j4h6JUqcdjmX5XwzEisiccpQAosldUrOilfMU7pV1U=
+			/fsKJfA9dfuRp5nsHCBRYRbMmK2bV+E6kP5lmG5CqGA=
 			</data>
+		</dict>
+		<key>en.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2WZDMZ6DBMIxRH9/Oge343BVA+GpuMwv1hnYrhy1658=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PsY5pCDGG3/a0iZzvq3GaVUtK57Z1USEsfa9mkEqSJg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Ub+WzM5YNuqCb71Nvqt1N3hPvK9ZOxEyI3hMohyArM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uyvlcBGschX1d/9pmm7pk5ZrECSBwLxiS1P6lbUhmUQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hEI9Gap6KIrbJt3zVS1KfZtrKVUcvGaiG69KjypwB4U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dffcvbWP0m/ls47Gv7XUDTsZvfVlmM4kdaQAtU+B664=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TIHNJOLUagWT7OGVDc0Y3vYX13brhyQEzjUw2YcAgvE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2rimdi+2QMd6BhBNagIRvZVJyD9Bv60pJ6z3yNHzGWY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ML/BPelwyN9+20tDVWjUub9LrfNqC5REGHO736IvmWI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tj+aJAu2f/0v1Kjw8kH+aUlpdmUIkb+q8yrb2m5/uqA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v073quluQjwZPwLrvhe0FVKAtidT02voB0ZWsB0+bek=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j8mB+1Rr4srf8KLsT4CulXrxje8m7+IA62SWrZC/tqY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y0f48/Ar1NUcrToTXiiy7g7dLc7hpOQ4VShS4F98lNM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MInCVpzSRvMLpU2+vFTFP9LbF5MMXHQSax1l7QidZOY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nJL/KqSs4dX+ePta3k9KBwTsMKOyxHQ+dviWslZQZgc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H/ePYYrw4ENx5OOrgKwssGhU3/xykHXmkATD2G20cbA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wl/6dxtZ6ohAy0WMikWs3S1Kl4OgB+F1nYZP6XFdmGQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bGjfWLhMBX709XlmDZ4kClRjX/zq/ap9e0okiojUsWM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AEP4YpiIdr+rYDIqSdQOeUQOh5IGyfJu42SnHBnOCYE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			e2QkD03k8wABZgJwLUq3PtOC7byjJ6jpfkwHERD19wA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hn5AgVo52nwXwDArwsq8clwNCJ0kJJwMvlIoKWn18dw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JgBpPHo8TqU4lnyPuFDNx2dzLvurYJVuZ2eDw2oAnz4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tyzMT8HjYYrw3m+yczy+YyBaeffKi4L9CRvKCGMEE4g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zf/wGWB9rrrYdOyKUrL3/4VKRQ8xDgmDkHXFBXk5b+Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4xORxdUBJs8A4feA3jVGAb+jmUHlLT94P/Cxjp+S8vU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aXJvNlUuFvTONpiiUU0zIVPgRRSXdzIBAkoNbbnqKwM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S0o4Gz7IVFT5UKjIniCF7Rp99elhPQznEuw7zuuS7SI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YfrDcdKvLW1+C6jeArO6Q26x9JRV0esFRVcZh9L08Qo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X+Oz4Bptu5qzXfRduzANvLlUMNgHSXTeznqxq05TOl8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PigvQ+Cdyazgh3+KijcIG6AG5GDMmZoZMCmzKaVjUmI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lPUxPcKJS+ZnO4zN+XR9ZxKguk6bf0CR753bMhSpgAM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/bPkntr2MXrqDwK9u1jVIcXW1W7hRf2f8s6Lczdc5hQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H9/yKq0AVI3hQENqj7RBUydxxYw2Iz9KKE0t7ukP7EI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WHn5wUgo1WyKjISWLuOY+DbA46sT0GSlsyr2D6tNEKk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y5doMLtwAndj+2ptji2viRgyCA76M0/hNY+O7ufUp+A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WSZSNxOFUld04Cob13TrVFvMRj8mmy/nJOzHJ6Jqd/o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Mb06YQB2V9a8n46OI3LZNg14kcH1NoppFiXg7okh5zI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w7CJVWYjtuMOh+H2wVv+zeHoLK7L1B+N2MGaZgG1qIg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dbxkOY2dxrqOl9VENpPWn2OqRO3cxZOwth7wDeMzryc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J2FMFCYPWNsatGR8GS/puEgfu8/5dVNwr8BoHe6tCCk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qPwcGTxWUkQjoVdHWOUxt5DYsfxHf2Y4g9JH1OEB54M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jvEsSnCJbbXfQOLkyCnQJh5phO9f8h3QyoVWG0IQozg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3I1Hjuux6gS2stZLF0+HCS1G1A51gn3CyjEHWBss/Vg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sf+1DAN7h+3qfXCUIqTP8iR1gnfmHXKfU4rqDLLrgBc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sSCmvux5f65g1Js592J00OHR4KbMzwkyPkBS7XeOjBk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lj8j4gfcCCJ8QQnO7Y4mqC7v+EMdCFCgtH4b7uHCYwc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fB0pMYXYTdJEE+DFcZM+0LFdq8XqhO725Hiuz9c5Ows=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I6dweNDqA7JVltyaYgB1ueJqYsjSfWWWtssVNYgiWIA=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>license.txt</key>
 		<dict>
@@ -22267,6 +25166,330 @@
 			<data>
 			qxX9UmvY3Rip5368E5ZWv00z6X/HI4zRG/YOK5uGZsY=
 			</data>
+		</dict>
+		<key>nl.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+dCF6k5ccu9d/tICtwAdbeq817mSO9SHOpBxaHqn48Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YeGaCVPuZ7gMV5hFMw/FoOYOnyyRFy9YLpJ8i7xiN/A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i7RVHxL6nPJRRAeGOE4t8TmiIymOFOF9T/0wtOcSvfU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EYb5nMwzxwLSzdnBHpai+WZOHdkPlUOZqmUo3DGtgpQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VoVpXlh44qe81DUVv4650sfHFSEpUjWtM2J0zAmzirY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QyanCHogjEQo86IiZSDB99YdIV9W2UPUFAH7nJnRxlU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y+lK8hx1ZytQ2W1a8a2T6YqposhpQr49hSRj5oRZ98g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DQa1oAjF1q2lDN+C7JGrcMKRHQvX3G8Qa5vWIwUlxpA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+IRGqvXdxuKAFzEltyRkSN00shFUPb6Lu6ZJIH9CthI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gdKLAf07O5QnocVuzOy9+IfVW9M1r701djay6J6RLcg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5MQC5iW1cXDmDTnxXaiNOUm4FazX2vIJX3P6/nDA4X8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NVv9NIV1WQIAi0W5e7KZQiAb+PdjTCFzV5Dr/ml96Cg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fTpkU1vJpN2NY3zNh2jTtk9Wv24mk1UBXHE4lMxahkM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dffcvbWP0m/ls47Gv7XUDTsZvfVlmM4kdaQAtU+B664=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TIHNJOLUagWT7OGVDc0Y3vYX13brhyQEzjUw2YcAgvE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-BR.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MaAUoCZ/gBsrr9Yzu5bMerQiI0A1yWguCd0Z1Xk4seQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W/xfhjRXqT+7ZZ52SZHtM81r1XZL2jPR82ch3M3q8is=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LMMUlVNXszWYXtbBTIUmYkCXX7yLae3Wmrt8mrGRVew=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			koTbJkWvzrAFPSiBGQMNw+6NE54ImwJeAWl58lKQJZY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8EfzRkT9Teb77SIzjA+4ljfqYmHVMb8SsKCq6PMVdec=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jYfnON0WK9V2a+/EIH4T8r0Ptn8xfny7F5CZj90UQYo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bb6NrEDlWEZBkHK1O784WF5u38P1xNDIIut0Y2ixKJU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lh4sWx0G3jajTu3KoGGpmdBgcoRIHxtLk3u1p3+tcZk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7PEuVBU4rP6HjyzY6Kvqt4C5JWHF0SP1lAQMS2YPZhE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/ConfigSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2JmLit1y3VbPUF0uwpiK4fxMsMId7awtORvXKgJJ+FM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/ControllerSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nnvEB9PqPlwOYP6+AxTGNl1/Xeu8QSQCwCvUpl6E0o4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Dolphin.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b0d7uvRBD/MpzeM3ImkT2At/me7Rs9z4015IG9/JuBs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/GraphicsSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dnRZf5wOo9uIzdcooiPuBW7pMi97/xJrrZnjuv7ZpGA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/InGameSettings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gZQhQUVIPTeRKTvBBZ9pDgOrK87GO1rqjND9tQlAXGI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/LaunchScreen.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gWSnaIU34J6AxZkKnN/cvbBsNTrY4Buy1b3AYRe6O7o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9CvkXCLOm8/RUZ6jsygN9cZ+M35X5HOpOYZ0E2X1Wlw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Main.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ob34eyJWlufi5yP2tIbAmejpoSupESWdITxmMzKl/3k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/Settings.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9s31fQ6lJxiYkSpz2P43LzOEeyPnkOxqLdSKqs4eJ6A=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
