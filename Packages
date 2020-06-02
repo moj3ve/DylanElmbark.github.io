@@ -1,28 +1,28 @@
-Package: com.rileytestut.Delta.Beta
-Version: 1.2b
+Package: com.rileytestut.Delta.Beta.65YD56KAPC
+Version: 1.2b2
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/Delta.deb
-Size: 17483708
-MD5sum: cc3924c23a438e9f4f5e22de8a94ed29
-SHA1: 4979a3755f6a9aa7613bbac29913421bb0d118e4
-SHA256: bda551acd8b46050238f79e1909d183ba9399d76df3d5ab0da858acbf28ffc4d
+Size: 18492174
+MD5sum: be98166b43e758dbf8593a1ad4fc31a5
+SHA1: 4c34ef98655e9c5b4ea7bccfceb37578715fcd4f
+SHA256: 5389c13b4f49f2b5de9e4316f90c30892788768dd230eb4c242a9b807f0b3f9d
 Section: Games
-Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/ games. Supports iOS 12-13
+Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES games. Supports iOS 12-13
 Author: Riley Testut
 Name: Delta
 
-Package: me.oatmealdome.dolphinios-patreon-beta
-Version: 2.0.2-3
+Package: me.oatmealdome.dolphinios
+Version: 2.1.1-4
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/DolphiniOS.deb
-Size: 67846472
-MD5sum: f3f4af8e4f42aeab332c46e18f56a8eb
-SHA1: b023b528f61ac9e954819ed6e1bf917f35cf1385
-SHA256: 89ccd626d9dea6f30291f4ed11d27712d3cdc4a1d9a790c740909594126be054
+Size: 73914400
+MD5sum: d115712ef14f806cd289d6021aac7e3d
+SHA1: cd896d058d934091f850455ce23a38305c9f0b2c
+SHA256: 59b487869cb941fc500bf31904ecc7172b443790ff8f71aa06dda2587363e68d
 Section: Games
 Description: Dolphin iOS is an Wii/Gamecube Emulator, Supports iOS 12-13.
 Author: OatmealDome
@@ -169,30 +169,30 @@ Author: Morpheus___
 Name: jtool2 Installer
 
 Package: re.frida.server
-Version: 12.8.16
+Version: 12.8.20
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/Frida64.deb
-Size: 15133116
-MD5sum: 0517d01c3df003c773feae3e3f6d38c0
-SHA1: f1495bf4bd3251d1dcfdd081519f4399ca65a308
-SHA256: 1ab3d8d66f33671c3eebbbad1342323c65d4284d22e8edd76927e8d054cb2647
+Size: 15087978
+MD5sum: 53482299f6f06de226e89b1616e51cf2
+SHA1: 7523b8d4e06b7abc6f1c7ab3daf15edf7a817d33
+SHA256: 5faca1f8a4a3e29cfa09981e92a33bd3de8088ebfe0c4a0710fd0df4812e2d32
 Section: Development
 Description: Inject JavaScript to explore iOS apps over USB for 64-bit devices.
 Author: Frida Developers
 Name: Frida (64-bit)
 
 Package: re.frida.server32
-Version: 12.8.16
+Version: 12.8.20
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/Frida32.deb
-Size: 7833076
-MD5sum: cc4ffe3b50636ad9a0461a2e85a4d340
-SHA1: b04d13201ab38e3426fe3352d41998ef6c7a104e
-SHA256: 3ee5d72a5c644ea86fa729170a8593c436c87913c0c742846df63d5b3fb87a72
+Size: 7833938
+MD5sum: e36444cb9e1db7cce60c9007494d4a32
+SHA1: b191a2f5bd673a89a29fd5760bdecddd5607aeb7
+SHA256: a667e3708180158ac136bf4cf3e941c4ed6bc530f71e73bbffb0a58897992867
 Section: Development
 Description: Inject JavaScript to explore iOS apps over USB for 32-bit devices.
 Author: Frida Developers
@@ -213,33 +213,18 @@ Description: Spotify++ for iOS 11-13 this installs a new Spotify.app, DELETE ORI
 Author: Dylan Elmbark & julioverne
 Name: Spotify++
 
-Package: com.julioverne.ext3nder-installer
-Version: 022b
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/Extender.deb
-Size: 1947692
-MD5sum: c125341ea7283265364d6755d696bc5b
-SHA1: cc947c68cf9bb0f73a672b346096edf85c26f31e
-SHA256: 176948a72235dad6d63cdb9183a2640c43eee7e9a9b63edd7a92dfb3b6e8738f
-Section: Utilities
-Description: Cydia Extender by saurik, modified by julioverne. Resigning apps does not work at all. This tool is meant for rebuilding apps installed on the device to .ipa files
-Author: saurik, julioverne
-Name: Cydia Extender
-
-Package: com.xd.mbp2
-Version: 6.5
+Package: com.anne.mbp2
+Version: 7.0
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: 
 Filename: /debs/MovieBox.deb
-Size: 43335884
-MD5sum: 45a896d05c90a47210083b61ef1d893e
-SHA1: f6eafd1123d8235437520f368d161729144dfd1d
-SHA256: d16ebd680ede91757f801387a305113dacaa4f97d918a62725e42f69664ccf25
+Size: 15504480
+MD5sum: 59eba80c7b22fd4943ae2f5da881c277
+SHA1: 60e50ecf41fad8687445bb55c2fcf760d990aa58
+SHA256: 57f5680b46f4e5c286478ef788a243a5e35b221a103d38fcc41c19dd724660f9
 Section: Multimedia
-Description: Free Movies and TV Shows
+Description: Free Movies and TV Shows, works on iOS 10-13
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 
@@ -254,24 +239,9 @@ MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
 SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
 SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
 Section: Multimedia
-Description: Free Movies and TV Shows
+Description: Free Movies and TV Shows, works on iOS 9-13
 Author: Mediaboxhd
 Name: MediaBox HD
-
-Package: com.popcorntimetv.popcorntime.ios
-Version: 3.2.35
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: 
-Filename: /debs/PopcornTime.deb
-Size: 38899976
-MD5sum: bbc95b25730b223a049de605c1d8dae7
-SHA1: ded8c80041741829387b281d060caf9642d315fa
-SHA256: 0dfffcf3991792e444a75cf8b951681a719fa31cb9919c47aab01c7824b6b0fa
-Section: Multimedia
-Description: Free Movies and TV Shows
-Author: PopcornMaster
-Name: PopcornTime
 
 Package: com.rileytestut.Delta.Lite.Beta
 Version: 1.0b
@@ -304,15 +274,15 @@ Author: SarahH12099
 Name: AnimeGT++
 
 Package: re.frida.server64
-Version: 12.8.16
+Version: 12.8.20
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: mobilesubstrate
 Filename: /debs/FridaA12.deb
-Size: 15093110
-MD5sum: 9221eec6496fbe81b1289ca3267918db
-SHA1: d5865685e14ac3eda02447513ba802e055fe1490
-SHA256: 735c49b1b5d9ab292dde04f7dc30d8e60ac6271b03e1710659a5dfc06d608ea1
+Size: 15125816
+MD5sum: abd58b404ff9f1a552fdc6e437cf6cd9
+SHA1: 9cf9eebe566e4f31e591e3bcedbffa0e70dfadd1
+SHA256: b8abd4fa3b814aabcc50911ff28b441e026a27f7d9c502fa085ec50253555ec5
 Section: Development
 Description: Inject JavaScript to explore iOS apps over USB on A12/A13 devices.
 Author: Frida Developers
