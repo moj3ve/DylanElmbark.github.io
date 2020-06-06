@@ -303,6 +303,21 @@ Description: Re-Sign, Install IPA files, revoke certificates. Works on iOS 7-13,
 Author: Matt Clarke
 Name: ReProvision (EOL)
 
+Package: com.rileytestut.altdaemon
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: mobilesubstrate
+Filename: /debs/AltDaemon.deb
+Size: 621974
+MD5sum: c4a536e6a45c00e7d84998a84a34baf3
+SHA1: fa1c931e680eac92eb24e8b58fdadf4d19fdb922
+SHA256: d45115be53f40502707cd6027b5d7e3a60f81edaf591032bcdac0899f02f9106
+Section: System
+Description: AltServer for iOS 12.2 - 13.x
+Author: Riley Testut
+Name: AltDaemon
+
 
 
 
