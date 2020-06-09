@@ -13,36 +13,6 @@ Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES gam
 Author: Riley Testut
 Name: Delta
 
-Package: me.oatmealdome.dolphinios
-Version: 2.1.1-4
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/DolphiniOS.deb
-Size: 73914400
-MD5sum: d115712ef14f806cd289d6021aac7e3d
-SHA1: cd896d058d934091f850455ce23a38305c9f0b2c
-SHA256: 59b487869cb941fc500bf31904ecc7172b443790ff8f71aa06dda2587363e68d
-Section: Games
-Description: Dolphin iOS is an Wii/Gamecube Emulator, Supports iOS 12-13.
-Author: OatmealDome
-Name: DolphiniOS
-
-Package: com.dta.provenance
-Version: 1.5-2602
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/Provenance.deb
-Size: 56959142
-MD5sum: 527f271a054341d93810f6b9b1a20a77
-SHA1: 7326ccb5c201201552f9dbf9879eb19ac4bd7028
-SHA256: 99004e49cf255005a6b4561c0b759f15bc02ad1eb9271ff28370f6f928e4eece
-Section: Games
-Description: iOS/tvOS multi-emulator supporting Nintendo, Sega, Atari, Bandai and Playstation 1 Games. Supports iOS 9-13
-Author: Provenance Team
-Name: Provenance
-
 Package: net.nerd.inds
 Version: 1.10.7
 Architecture: iphoneos-arm
@@ -58,53 +28,6 @@ Description: Nintendo DS Emulator for iOS 9-13 (supports arm64)
 Author: iNDS Team
 Name: iNDS (64-bit)
 
-Package: org.xbmc.kodi-ios
-Version: 18.5-0
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/Kodi32.deb
-Size: 58046784
-MD5sum: 862d025d7b4635800596235d4dc8ad4c
-SHA1: 96c5e8bbb71beadddc7779005eac4379881870ac
-SHA256: 56fbf65c7c2f9178a2cb31007a85971e4c4d5b13fa5518e8067dfa762d8dee44
-Section: Multimedia
-Description: Kodi Multimedia center for iOS 7-10, Supports armv7 (32-bit devices)
-Author: XBMC Team
-Name: Kodi-iOS (32-bit)
-
-Package: org.xbmc.kodi-ios64
-Version: 18.5-0
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/Kodi64.deb
-Size: 54854016
-MD5sum: 5f26b1f8fa297e4d768ce3701815a4aa
-SHA1: b09d64166bf68616b0ac90375aa18dd0e4f4a333
-SHA256: 9a9b9db3a7691de9e6cbcbc77dae7f1415693bb20bc05e100e388f7b85a8803c
-Section: Multimedia
-Description: Kodi Multimedia center for iOS 7-13, Supports arm64 (64-bit devices)
-Author: XBMC Team
-Name: Kodi-iOS (64-bit)
-
-Package: org.ppsspp.ppsspp-dev-latest
-Version: 0v1.6.3-456-g6d0ed4ad0
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/PPSSPP.deb
-Size: 17259000
-MD5sum: e3b7d976ced6b9fee8db214c07f6ca53
-SHA1: b956fce7d7bcacbd08a668032d3c5060edabcf6a
-SHA256: c209f263476c9826147ff73fb5ab86271def8a2fbcb93825c815e5c69984fa96
-Section: Games
-Description: PSP Emulator, works on iOS 6-13 compatible with arm64 devices.
-Author: Henrik Rydgård
-Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
-Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
-Name: PPSSPP (Dev-Latest)
-
 Package: com.michael.dimentio
 Version: 0.5.0
 Architecture: iphoneos-arm
@@ -118,21 +41,6 @@ Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires task_for_pid0)
 Author: 0x7ff
 Name: Dimentio
-
-Package: com.michael.fixldrestart
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: coreutils-bin, uikittools
-Filename: /debs/fixldrestart.deb
-Size: 886
-MD5sum: 87a2731f10f6b81274525465736cf85b
-SHA1: c68987d708cf97cc4391ee98a3f26f6fd4f17950
-SHA256: 7023acba58b8fac8fd393043591228f0cb6490c6ed3996e0c9919b37aca0d41a
-Section: Tweaks
-Description: Fix ldrestart on unc0ver with sandbox apps
-Author: halo_michael <yc992147156@me.com>
-Name: Fixldrestart (unc0ver)
 
 Package: com.michael.generatorautosetter
 Version: 0.1.1
@@ -152,51 +60,6 @@ Description: Auto set your generator when jailbreaking!
  Only Support Checkra1n. (Because other jailbreak tool doesn't need that.)
 Author: halo_michael <yc992147156@me.com>
 Name: Nonce Setter for checkra1n
-
-Package: com.michael.jtool2
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: org.coolstar.cctools|odcctools, firmware(>=11.0), curl, ldid
-Filename: /debs/jtool2.deb
-Size: 1084
-MD5sum: 370e886d2db50a0c12b533d0ac46d439
-SHA1: fb1fd1070ee9bd79750f182fe968e79ce8450ac3
-SHA256: 68aa07587f9a9a9fdd46f4adadcf3de0594fa6828bb07773cea30e678428492e
-Section: System
-Description: Install Jonathan Levin's jtool2 from newosxbook.com.
-Author: Morpheus___
-Name: jtool2 Installer
-
-Package: re.frida.server
-Version: 12.8.20
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/Frida64.deb
-Size: 15087978
-MD5sum: 53482299f6f06de226e89b1616e51cf2
-SHA1: 7523b8d4e06b7abc6f1c7ab3daf15edf7a817d33
-SHA256: 5faca1f8a4a3e29cfa09981e92a33bd3de8088ebfe0c4a0710fd0df4812e2d32
-Section: Development
-Description: Inject JavaScript to explore iOS apps over USB for 64-bit devices.
-Author: Frida Developers
-Name: Frida (64-bit)
-
-Package: re.frida.server32
-Version: 12.8.20
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/Frida32.deb
-Size: 7833938
-MD5sum: e36444cb9e1db7cce60c9007494d4a32
-SHA1: b191a2f5bd673a89a29fd5760bdecddd5607aeb7
-SHA256: a667e3708180158ac136bf4cf3e941c4ed6bc530f71e73bbffb0a58897992867
-Section: Development
-Description: Inject JavaScript to explore iOS apps over USB for 32-bit devices.
-Author: Frida Developers
-Name: Frida (32-bit)
 
 Package: com.spotify.client
 Version: 8.5.51
@@ -273,36 +136,6 @@ Description: Free Anime Shows, works on iOS 12-13
 Author: SarahH12099
 Name: AnimeGT++
 
-Package: re.frida.server64
-Version: 12.8.20
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
-Filename: /debs/FridaA12.deb
-Size: 15125816
-MD5sum: abd58b404ff9f1a552fdc6e437cf6cd9
-SHA1: 9cf9eebe566e4f31e591e3bcedbffa0e70dfadd1
-SHA256: b8abd4fa3b814aabcc50911ff28b441e026a27f7d9c502fa085ec50253555ec5
-Section: Development
-Description: Inject JavaScript to explore iOS apps over USB on A12/A13 devices.
-Author: Frida Developers
-Name: Frida (A12+ devices)
-
-Package: com.matchstic.reprovision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/ReProvision.deb
-Size: 14406348
-MD5sum: 4064144eed72b264038cb91d9e477f1a
-SHA1: 1287ffa0f2919789fc86a96267e8cb3410715ff8
-SHA256: 11efa2b9c737860df3ebe08eeab429bfa664612c4b22b5e8aa237f20785b8e5d
-Section: System
-Description: Re-Sign, Install IPA files, revoke certificates. Works on iOS 7-13, ReProvision is at EOL and will not be updated if Apple breaks it again.
-Author: Matt Clarke
-Name: ReProvision (EOL)
-
 Package: com.rileytestut.altdaemon
 Version: 0.1
 Architecture: iphoneos-arm
@@ -322,7 +155,7 @@ Package: com.rileytestut.altstore.alpha.jailbroken
 Version: 1.4a4
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
-Depends:
+Depends: com.rileytestut.altdaemon
 Filename: /debs/AltStoreAlpha.deb
 Size: 3124474
 MD5sum: e9824193c0d561e1617a70fb0529dc4a

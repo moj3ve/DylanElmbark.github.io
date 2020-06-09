@@ -1,3 +1,0 @@
-#/bin/sh
-
-nohup _ldrestart >/dev/null 2>&1
