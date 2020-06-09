@@ -292,7 +292,7 @@ Package: com.matchstic.reprovision
 Version: 0.5.2~EOL
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
+Depends:
 Filename: /debs/ReProvision.deb
 Size: 14406348
 MD5sum: 4064144eed72b264038cb91d9e477f1a
@@ -307,7 +307,7 @@ Package: com.rileytestut.altdaemon
 Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
-Depends: mobilesubstrate
+Depends:
 Filename: /debs/AltDaemon.deb
 Size: 621974
 MD5sum: c4a536e6a45c00e7d84998a84a34baf3
@@ -317,6 +317,21 @@ Section: System
 Description: AltServer for iOS 12.2 - 13.x
 Author: Riley Testut
 Name: AltDaemon
+
+Package: com.rileytestut.altstore.alpha.jailbroken
+Version: 1.4a4
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/AltStoreAlpha.deb
+Size: 3124474
+MD5sum: e9824193c0d561e1617a70fb0529dc4a
+SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
+SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
+Section: Utilities
+Description: AltStore (Alpha Channel) supports on-device signing for jailbroken devices. Supports iOS 12.2 - 13.x
+Author: Riley Testut
+Name: AltStore (Alpha)
 
 
 
