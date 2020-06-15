@@ -137,17 +137,17 @@ Author: SarahH12099
 Name: AnimeGT++
 
 Package: com.rileytestut.altdaemon
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/AltDaemon.deb
-Size: 621974
-MD5sum: c4a536e6a45c00e7d84998a84a34baf3
-SHA1: fa1c931e680eac92eb24e8b58fdadf4d19fdb922
-SHA256: d45115be53f40502707cd6027b5d7e3a60f81edaf591032bcdac0899f02f9106
+Size: 873486
+MD5sum: da9adf74b588bad97fffa70d67273ead
+SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bb
+SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61be
 Section: System
-Description: AltServer for iOS 12.2 - 13.x
+Description: AltServer for iOS/iPadOS 12.2 - 13.x
 Author: Riley Testut
 Name: AltDaemon
 
