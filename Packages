@@ -166,6 +166,21 @@ Description: AltStore (Alpha Channel) supports on-device signing for jailbroken 
 Author: Riley Testut
 Name: AltStore (Alpha)
 
+Package: tech.saunders.tutucrack
+Version: 3.2.2-1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: com.johncoates.Flex3
+Filename: /debs/TutuAppCrack.deb
+Size: 25668918
+MD5sum: d051282b3c133a22a79da80dce3f4028
+SHA1: 1ff9f109566291ffd8d5b614608c3b5c3dd105dd
+SHA256: 8adf88d953481536db7a1d273fd972d9d8e8a6647431ac9296892cb40807c100
+Section: Tweaks
+Description: Cracked TutuApp VIP, only works in a jailbroken state. Flex 3 must be installed in order for this to work.
+Author: Saunders Tech, Thunder7Yoshi, Shiro
+Name: TutuApp VIP (Free)
+
 
 
 
