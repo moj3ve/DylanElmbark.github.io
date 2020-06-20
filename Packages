@@ -196,6 +196,21 @@ Description: Pwns in-app purchases on iOS 5 to 12
 Author: AnonDev
 Name: LocalIAPStore (Legacy)
 
+Package: com.hackyouriphone.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/InApp13.deb
+Size: 3730
+MD5sum: 785763058cf6cc82240b7e2d1d51fb3c
+SHA1: e82aee2d837905cfbf89b4edbb9c00d2bcbecd1e
+SHA256: fb9a09fd2f260b0d1098895944737fcd0b41a512001299ca9703199ec7567a8a
+Section: Tweaks
+Description: Pwns in-app purchases on iOS/iPadOS 13.x
+Author: pxcex
+Name: LocalIAPStore (iOS 13+)
+
 
 
 
