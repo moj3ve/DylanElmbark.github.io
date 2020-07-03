@@ -136,36 +136,6 @@ Description: Free Anime Shows, works on iOS 12-13
 Author: SarahH12099
 Name: AnimeGT++
 
-Package: com.rileytestut.altdaemon
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/AltDaemon.deb
-Size: 873486
-MD5sum: da9adf74b588bad97fffa70d67273ead
-SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bb
-SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61be
-Section: System
-Description: AltServer for iOS/iPadOS 12.2 - 13.x
-Author: Riley Testut
-Name: AltDaemon
-
-Package: com.rileytestut.altstore.alpha.jailbroken
-Version: 1.4a4
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: com.rileytestut.altdaemon
-Filename: /debs/AltStoreAlpha.deb
-Size: 3124474
-MD5sum: e9824193c0d561e1617a70fb0529dc4a
-SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
-SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
-Section: Utilities
-Description: AltStore (Alpha Channel) supports on-device signing for jailbroken devices. Supports iOS 12.2 - 13.x
-Author: Riley Testut
-Name: AltStore (Alpha)
-
 Package: com.antique.popcorn
 Version: 1.0.7.9
 Architecture: iphoneos-arm
