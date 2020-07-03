@@ -76,16 +76,16 @@ Description: Spotify++ for iOS 11-13 this installs a new Spotify.app, DELETE ORI
 Author: Dylan Elmbark & julioverne
 Name: Spotify++
 
-Package: com.anne.mbp2
-Version: 7.0
+Package: com.xd.mbp2
+Version: 7.3
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: 
-Filename: /debs/MovieBox.deb
-Size: 15504480
-MD5sum: 59eba80c7b22fd4943ae2f5da881c277
-SHA1: 60e50ecf41fad8687445bb55c2fcf760d990aa58
-SHA256: 57f5680b46f4e5c286478ef788a243a5e35b221a103d38fcc41c19dd724660f9
+Filename: /debs/MovieBoxPro.deb
+Size: 71061972
+MD5sum: 00cd300fd05c0b020e18aa53092ee841
+SHA1: cdb90deb3327a2d8d22907142cc3665aa4c4f95b
+SHA256: 736a430a4a87f7a8d0f054d45f25eb61156cd91085f7e7a66d2dbf388e1af3ed
 Section: Multimedia
 Description: Free Movies and TV Shows, works on iOS 10-13
 Author: MovieBoxPro Team
