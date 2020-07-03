@@ -137,17 +137,17 @@ Author: SarahH12099
 Name: AnimeGT++
 
 Package: com.antique.popcorn
-Version: 1.0.7.9
+Version: 1.0.8.7
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/Popcorn.deb
-Size: 24809190
-MD5sum: 6c5016dc2e5ac910933d59c9420618f0
-SHA1: 3e1d4fb2cf88984edba0944cb1f857da47bbcd8c
-SHA256: ccc26c4741daf9a33ab0f59bea921705333a2850217a30d90da2a37615e6fb80
+Size: 23623332
+MD5sum: 0641d59226788f84300d0c43871117cc
+SHA1: a47918277ea93a27b0a10a09130d0d63682247b4
+SHA256: 56b3179929bda7d69aecd98950b7b7b757d379582002d15974f5601d41a7c3c3
 Section: Multimedia
-Description: Spiritual successor to PopcornTime, supports iOS 11-13
+Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 11-13
 Author: Antique
 Name: Popcorn (iOS 11+)
 
