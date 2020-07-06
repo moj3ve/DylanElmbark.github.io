@@ -87,7 +87,7 @@ MD5sum: 00cd300fd05c0b020e18aa53092ee841
 SHA1: cdb90deb3327a2d8d22907142cc3665aa4c4f95b
 SHA256: 736a430a4a87f7a8d0f054d45f25eb61156cd91085f7e7a66d2dbf388e1af3ed
 Section: Multimedia
-Description: Free Movies and TV Shows, works on iOS 10-13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Free Movies and TV Shows, works on iOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: MovieBoxPro Team
 Name: MovieBox Pro
 
@@ -102,7 +102,7 @@ MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
 SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
 SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
 Section: Multimedia
-Description: Free Movies and TV Shows, works on iOS 9-13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Free Movies and TV Shows, works on iOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Mediaboxhd
 Name: MediaBox HD
 
@@ -137,17 +137,17 @@ Author: SarahH12099
 Name: AnimeGT++
 
 Package: com.antique.popcorn
-Version: 1.0.8.7
+Version: 1.0.9.0
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends:
 Filename: /debs/Popcorn.deb
-Size: 23623332
-MD5sum: 0641d59226788f84300d0c43871117cc
-SHA1: a47918277ea93a27b0a10a09130d0d63682247b4
-SHA256: 56b3179929bda7d69aecd98950b7b7b757d379582002d15974f5601d41a7c3c3
+Size: 23284602
+MD5sum: 9d0126e668e5f229b0dc60a0c3c5a120
+SHA1: 287b3e596dea865e584289c0fa0c9e13c999e12c
+SHA256: c86b30d2969d2bf994e3f45d1909503179ff5f82726cb735b93ba7162411ee53
 Section: Multimedia
-Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 11-13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 11-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Antique
 Name: Popcorn (iOS 11+)
 
