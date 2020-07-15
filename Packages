@@ -181,6 +181,21 @@ Description: Pwns in-app purchases on iOS/iPadOS 13.x
 Author: pxcex
 Name: LocalIAPStore (iOS 13+)
 
+Package: com.julioverne.scloudinfo
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/SoundCloudInfo.deb
+Size: 13586
+MD5sum: b91d5f7497747b5f203aaaa08caafe2b
+SHA1: 8f67e41bd869c93940ceadc7e0fb17c21ad6087e
+SHA256: c7a0d1dc472bf4facdf28fa91cb4e0c014673409bce74357e2ada0f2d1168805
+Section: Tweaks
+Description: Get extra dev options and info in the SoundCloud app, confirmed to work through iOS 11.3 - 13.5
+Author: julioverne
+Name: SCloudInfo
+
 
 
 
