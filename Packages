@@ -9,7 +9,7 @@ MD5sum: be98166b43e758dbf8593a1ad4fc31a5
 SHA1: 4c34ef98655e9c5b4ea7bccfceb37578715fcd4f
 SHA256: 5389c13b4f49f2b5de9e4316f90c30892788768dd230eb4c242a9b807f0b3f9d
 Section: Games
-Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES games. Supports iOS 12-13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Delta is an multi-emulator for playing GBA/GBC/NDS/N64/SNES/NES games. Supports iOS 12.2-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Riley Testut
 Name: Delta
 
@@ -24,7 +24,7 @@ MD5sum: b205abd66963d617681dc8b3bb00e072
 SHA1: 2ca21d6b65a0837415a66061d96462c01b33cc50
 SHA256: 824a9aa1ae30abaf05432aad2d290bd8c2c6e01e36c6f26353ffd0987cf9e46e
 Section: Games
-Description: Nintendo DS Emulator for iOS 9-13 (supports arm64), run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Nintendo DS Emulator for iOS/iPadOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: iNDS Team
 Name: iNDS (64-bit)
 
@@ -38,7 +38,7 @@ MD5sum: f346503a0fa0e398648f408d516cb356
 SHA1: 1fcfbfdddfb15cafe41fa0864e8596ec9ee4de04
 SHA256: f6791b64be0b5e5311268abda2db17733ff61411ff0064ba3aeb7b5e18ec7718
 Section: System
-Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC. (requires task_for_pid0)
+Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC.
 Author: 0x7ff
 Name: Dimentio
 
@@ -72,9 +72,9 @@ MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
 SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
 SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
 Section: Utilities
-Description: Spotify++ for iOS 11-13 this installs a new Spotify.app, DELETE ORIGINAL SPOTIFY (appstore) BEFORE INSTALLING THIS!, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Delete the original Spotify before installing this, Supports iOS/iPadOS 8-14
 Author: Dylan Elmbark & julioverne
-Name: Spotify++
+Name: Spotify++ (iOS 8+)
 
 Package: com.xd.mbp2
 Version: 7.3
@@ -87,9 +87,9 @@ MD5sum: 00cd300fd05c0b020e18aa53092ee841
 SHA1: cdb90deb3327a2d8d22907142cc3665aa4c4f95b
 SHA256: 736a430a4a87f7a8d0f054d45f25eb61156cd91085f7e7a66d2dbf388e1af3ed
 Section: Multimedia
-Description: Free Movies and TV Shows, works on iOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Free Movies and TV Shows, works on iOS/iPadOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: MovieBoxPro Team
-Name: MovieBox Pro
+Name: MovieBox Pro (iOS 10+)
 
 Package: mediaplayer.box.ios3
 Version: 2.4.9.2
@@ -102,9 +102,9 @@ MD5sum: 5db0da7e008b2cb88e3cdd62d513176c
 SHA1: 9da877a14d5671ed5fe6cc41af499a2e9449093a
 SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
 Section: Multimedia
-Description: Free Movies and TV Shows, works on iOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
+Description: Free Movies and TV Shows, works on iOS/iPadOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Mediaboxhd
-Name: MediaBox HD
+Name: MediaBox HD (iOS 9+)
 
 Package: com.rileytestut.Delta.Lite.Beta
 Version: 1.0b
@@ -134,7 +134,7 @@ SHA256: 1eed81e14a12e9ae96ef2edfe8a9d7157bbfcb5178019fb66fad11b8ca7aa083
 Section: Multimedia
 Description: Free Anime Shows, works on iOS 12-13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: SarahH12099
-Name: AnimeGT++
+Name: AnimeGT++ (iOS 12+)
 
 Package: com.antique.popcorn
 Version: 1.0.9.2
