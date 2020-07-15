@@ -211,6 +211,21 @@ Description: Allows you to save SHSH blobs on iOS/iPadOS 8-14
 Author: nullpixel, 1conan
 Name: SHSH Blobs Saver (iOS 8+)
 
+Package: com.antique.Popcorn-iOS
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/PopcornBeta.deb
+Size: 22996402
+MD5sum: 877f2e7a49f85a5f8473b41d37c32022
+SHA1: b7216df49375e1369ba5f22e20a52c974b53bfa0
+SHA256: 8d4836fa4b5d81b7bf1e2fea0f32f5d14d3e759ea4996cc281f60fbc991eb6cb
+Section: Multimedia
+Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 11-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up! This special version is in beta.
+Author: Antique
+Name: Popcorn (Beta)
+
 
 
 
