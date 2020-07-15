@@ -196,6 +196,21 @@ Description: Get extra dev options and info in the SoundCloud app, confirmed to 
 Author: julioverne
 Name: SCloudInfo
 
+Package: co.dynastic.tsssaver
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Filename: /debs/TSSSaver.deb
+Size: 152032
+MD5sum: fe2e43efaa390e4b81f100175ad1cddb
+SHA1: e669009b17ce74000712124861e4fc0f22d31386
+SHA256: 483f16008726c8882984f014565b921c443d4a39ebc036e1ada981584c7e0c59
+Section: Utilities
+Description: Allows you to save SHSH blobs on iOS/iPadOS 8-14
+Author: nullpixel, 1conan
+Name: SHSH Blobs Saver (iOS 8+)
+
 
 
 
