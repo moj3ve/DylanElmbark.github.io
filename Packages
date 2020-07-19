@@ -77,15 +77,15 @@ Author: Dylan Elmbark & julioverne
 Name: Spotify++ (iOS 8+)
 
 Package: com.xd.mbp2
-Version: 7.3
+Version: 7.4
 Architecture: iphoneos-arm
 Maintainer: Dylan Elmbark
 Depends: 
 Filename: /debs/MovieBoxPro.deb
-Size: 71061972
-MD5sum: 00cd300fd05c0b020e18aa53092ee841
-SHA1: cdb90deb3327a2d8d22907142cc3665aa4c4f95b
-SHA256: 736a430a4a87f7a8d0f054d45f25eb61156cd91085f7e7a66d2dbf388e1af3ed
+Size: 54371116
+MD5sum: c4c55632e1ce040dcb920ab7b7c46cb1
+SHA1: db0c7db313a900e92658eac54f8d7a739636ba25
+SHA256: fdb60a34afbae3b91605c9bb5c8ad578a8a834819d1899b7ea715b5c8f93bc61
 Section: Multimedia
 Description: Free Movies and TV Shows, works on iOS/iPadOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: MovieBoxPro Team
@@ -181,50 +181,6 @@ Description: Pwns in-app purchases on iOS/iPadOS 13.x
 Author: pxcex
 Name: LocalIAPStore (iOS 13+)
 
-Package: com.julioverne.scloudinfo
-Version: 0.0~beta1
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/SoundCloudInfo.deb
-Size: 13586
-MD5sum: b91d5f7497747b5f203aaaa08caafe2b
-SHA1: 8f67e41bd869c93940ceadc7e0fb17c21ad6087e
-SHA256: c7a0d1dc472bf4facdf28fa91cb4e0c014673409bce74357e2ada0f2d1168805
-Section: Tweaks
-Description: Get extra dev options and info in the SoundCloud app, confirmed to work through iOS 11.3 - 13.5
-Author: julioverne
-Name: SCloudInfo
-
-Package: co.dynastic.tsssaver
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
-Filename: /debs/TSSSaver.deb
-Size: 152032
-MD5sum: fe2e43efaa390e4b81f100175ad1cddb
-SHA1: e669009b17ce74000712124861e4fc0f22d31386
-SHA256: 483f16008726c8882984f014565b921c443d4a39ebc036e1ada981584c7e0c59
-Section: Utilities
-Description: Allows you to save SHSH blobs on iOS/iPadOS 8-14
-Author: nullpixel, 1conan
-Name: SHSH Blobs Saver (iOS 8+)
-
-Package: com.antique.Popcorn-iOS
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/PopcornBeta.deb
-Size: 22996402
-MD5sum: 877f2e7a49f85a5f8473b41d37c32022
-SHA1: b7216df49375e1369ba5f22e20a52c974b53bfa0
-SHA256: 8d4836fa4b5d81b7bf1e2fea0f32f5d14d3e759ea4996cc281f60fbc991eb6cb
-Section: Multimedia
-Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 11-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up! This special version is in beta.
-Author: Antique
-Name: Popcorn (Beta)
 
 
 

@@ -80,7 +80,7 @@
     <key>NSCameraUsageDescription</key>
     <string>Allow MovieBoxPro access your Camera?</string>
     <key>CFBundleShortVersionString</key>
-    <string>7.3</string>
+    <string>7.4</string>
     <key>CFBundleSupportedPlatforms</key>
     <array>
       <string>iPhoneOS</string>
