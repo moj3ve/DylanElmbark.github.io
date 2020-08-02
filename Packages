@@ -181,6 +181,21 @@ Description: Pwns in-app purchases on iOS/iPadOS 13.x
 Author: pxcex
 Name: LocalIAPStore (iOS 13+)
 
+Package: com.bkstyle.stylzish
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Dylan Elmbark
+Depends:
+Filename: /debs/AnimeGlare.deb
+Size: 20598948
+MD5sum: ea9971754ff1262e371e5d2c8d5d9807
+SHA1: 84ed115d49618d5eaf5be7684cb7621ad23f89c7
+SHA256: 4bd75ec1317b719eb8a336fc1d734a21da3b327d39f94cdec38e5bb698c1d481
+Section: Multimedia
+Description: Watch free anime without ads. Works on iOS/iPadOS 12-14
+Author: BlackKnit
+Name: AnimeGlare v3
+
 
 
 
