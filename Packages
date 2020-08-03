@@ -74,7 +74,7 @@ SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
 Section: Utilities
 Description: Delete the original Spotify before installing this, Supports iOS/iPadOS 8-14
 Author: Dylan Elmbark & julioverne
-Name: Spotify++ (iOS 8+)
+Name: Spotify++ (App)
 
 Package: com.xd.mbp2
 Version: 7.4
@@ -89,7 +89,7 @@ SHA256: fdb60a34afbae3b91605c9bb5c8ad578a8a834819d1899b7ea715b5c8f93bc61
 Section: Multimedia
 Description: Free Movies and TV Shows, works on iOS/iPadOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: MovieBoxPro Team
-Name: MovieBox Pro (iOS 10+)
+Name: MovieBox Pro
 
 Package: mediaplayer.box.ios3
 Version: 2.4.9.2
@@ -104,7 +104,7 @@ SHA256: 8d666fb0a04f91ee5e74960992eb3b243e0505a6792c30db842593fc16e30a51
 Section: Multimedia
 Description: Free Movies and TV Shows, works on iOS/iPadOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Mediaboxhd
-Name: MediaBox HD (iOS 9+)
+Name: MediaBox HD
 
 Package: com.rileytestut.Delta.Lite.Beta
 Version: 1.0b
@@ -121,21 +121,6 @@ Description: Delta Lite is an multi-emulator for playing GBC/NES games. Supports
 Author: Riley Testut
 Name: Delta Lite
 
-Package: xyz.chise.animeiosv2
-Version: 4.1
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/AnimeGT++.deb
-Size: 12332152
-MD5sum: b22004cdaec61f0c7ff3f0e2d4063b3e
-SHA1: 8a9fc32c1fa090456e3f4976e3db9d043393c89c
-SHA256: 1eed81e14a12e9ae96ef2edfe8a9d7157bbfcb5178019fb66fad11b8ca7aa083
-Section: Multimedia
-Description: Free Anime Shows, works on iOS 12-13, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
-Author: SarahH12099
-Name: AnimeGT++ (iOS 12+)
-
 Package: com.antique.popcorn
 Version: 1.0.9.2
 Architecture: iphoneos-arm
@@ -149,7 +134,7 @@ SHA256: 4515b77aad5993593f8fc5d48c792a1bafc62a6968e0689159c19eea02e39bb1
 Section: Multimedia
 Description: Spiritual successor to PopcornTime, supports iOS/iPadOS 11-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Antique
-Name: Popcorn (iOS 11+)
+Name: Popcorn
 
 Package: com.hackyouriphone.localiapstore
 Version: 1.4-2
