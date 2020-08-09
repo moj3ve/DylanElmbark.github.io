@@ -40,7 +40,7 @@ SHA256: f6791b64be0b5e5311268abda2db17733ff61411ff0064ba3aeb7b5e18ec7718
 Section: System
 Description: PoC tool for setting nonce without triggering KPP/KTRR/PAC.
 Author: 0x7ff
-Name: Dimentio
+Name: dimentio
 
 Package: com.michael.generatorautosetter
 Version: 0.1.1
@@ -191,10 +191,10 @@ Size: 201134
 MD5sum: 4be44d65dcb7c50576a0f73cf970df7e
 SHA1: 242c0a52df8a20d19ac72cd8e654e4eeff9ca6bd
 SHA256: e4c31947d1a48d2ea381c6b08c447f52da97a1ad0b85b16a435946abd32a6639
-Section: Tweaks
+Section: Utilities
 Description: Spotify++ Patch for iOS/iPadOS 7-14, requires Spotify from the App Store.
 Author: julioverne & Dylan Elmbark
-Name: Spotify++ (Tweak)
+Name: Spotilife
 
 
 
