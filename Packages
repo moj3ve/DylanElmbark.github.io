@@ -90,6 +90,7 @@ Section: Multimedia
 Description: Free Movies and TV Shows, works on iOS/iPadOS 10-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: MovieBoxPro Team
 Name: MovieBox Pro
+Icon: file:///iconcache/MovieBox.png
 
 Package: mediaplayer.box.ios3
 Version: 2.4.9.2
@@ -105,6 +106,7 @@ Section: Multimedia
 Description: Free Movies and TV Shows, works on iOS/iPadOS 9-14, run uicache or ldrestart in MTerminal/NewTerm if the icon doesn't show up!
 Author: Mediaboxhd
 Name: MediaBox HD
+Icon: file:///iconcache/Mediabox.png
 
 Package: com.rileytestut.Delta.Lite.Beta
 Version: 1.0b
