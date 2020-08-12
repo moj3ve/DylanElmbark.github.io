@@ -1,7 +1,7 @@
-Origin: Dylbin's Telesphoreo 
-Label: Dylbin's Telesphoreo 
+Origin: Dylbin's Repo
+Label: Dylbin's Repo
 Suite: stable
-Version: 1.0
+Version: 2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
